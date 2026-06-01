@@ -1,0 +1,36 @@
+name: Auto Fetch Stock Data
+
+on:
+  schedule:
+    # 國際標準時 (UTC) 06:15 等於台灣時間 (GMT+8) 14:15 (台股收盤後)
+    # 星期一到星期五執行
+    - cron: '15 6 * * 1-5'
+  workflow_dispatch: # 這行可以讓我們隨時點擊按鈕手動強制執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 賦予機器人把資料寫回儲存庫的權限
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/configure-pages@v4
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Execute Python Script
+      run: |
+        python fetch_twse.py
+
+    - name: Commit and Push if data changed
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.name "actions@github.com"
+        git add data.json
+        git commit -m "Auto updated stock data" || exit 0
+        git push
