@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台股每日漲停看板</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-gray-900 text-gray-100 min-h-screen p-8">
+
+    <div class="max-w-4xl mx-auto">
+        <header class="mb-8 border-b border-gray-700 pb-4">
+            <h1 class="text-3xl font-bold text-red-500">📈 台股每日漲停飆股看板</h1>
+            <p class="text-gray-400 mt-2">資料日期：2026-06-01 (測試資料)</p>
+        </header>
+
+        <div class="bg-gray-800 rounded-lg shadow-xl overflow-hidden">
+            <table class="w-full text-left border-collapse">
+                <thead>
+                    <tr class="bg-gray-700 text-gray-200">
+                        <th class="p-4 font-semibold">股票代號</th>
+                        <th class="p-4 font-semibold">股票名稱</th>
+                        <th class="p-4 font-semibold">收盤價</th>
+                        <th class="p-4 font-semibold">漲幅</th>
+                        <th class="p-4 font-semibold">成交量 (張)</th>
+                    </tr>
+                </thead>
+                <tbody id="stock-list">
+                    <tr class="border-b border-gray-700">
+                        <td class="p-4 text-gray-400" colspan="5">正在載入股票資料...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+       // 改成讀取固定的 data.json
+       fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.getElementById('stock-list');
+                tbody.innerHTML = ''; // 清空原本的載入中字樣
+                
+                data.forEach(stock => {
+                    const row = `
+                        <tr class="border-b border-gray-700 hover:bg-gray-750 transition-colors">
+                            <td class="p-4 font-mono text-blue-400">${stock.code}</td>
+                            <td class="p-4 font-bold">${stock.name}</td>
+                            <td class="p-4 text-yellow-400 font-semibold">${stock.close}</td>
+                            <td class="p-4 text-red-500 font-bold">+${stock.percentage}%</td>
+                            <td class="p-4 text-gray-300">${stock.volume.toLocaleString()}</td>
+                        </tr>
+                    `;
+                    tbody.innerHTML += row;
+                });
+            })
+            .catch(error => {
+                console.error('Error loading JSON:', error);
+                document.getElementById('stock-list').innerHTML = `
+                    <tr><td class="p-4 text-red-400" colspan="5">無法載入 JSON 資料，請確認檔案是否存在。</td></tr>
+                `;
+            });
+    </script>
+</body>
+</html>
