@@ -5,7 +5,7 @@ on:
     # 國際標準時 (UTC) 06:15 等於台灣時間 (GMT+8) 14:15 (台股收盤後)
     # 星期一到星期五執行
     - cron: '15 6 * * 1-5'
-  workflow_dispatch: # 這行可以讓我們隨時點擊按鈕手動強制執行
+  workflow_dispatch: # 讓我們可以隨時點擊按鈕手動強制執行
 
 jobs:
   build:
@@ -18,19 +18,25 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/configure-pages@v4
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
+
+    # 【核心修正 1】：叫雲端電腦安裝抓取資料需要的 pandas 套件
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas
 
     - name: Execute Python Script
       run: |
         python fetch_twse.py
 
+    # 【核心修正 2】：設定正確的機器人身份，讓它能順利把 data.json 推送上來
     - name: Commit and Push if data changed
       run: |
-        git config --global user.name "GitHub Action Bot"
-        git config --global user.name "actions@github.com"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add data.json
         git commit -m "Auto updated stock data" || exit 0
         git push
