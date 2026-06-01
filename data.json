@@ -1,0 +1,527 @@
+[
+    {
+        "code": "1303",
+        "name": "南亞",
+        "close": 107.5,
+        "volume": 111908,
+        "percentage": 9.58
+    },
+    {
+        "code": "1409",
+        "name": "新纖",
+        "close": 25.05,
+        "volume": 8617,
+        "percentage": 9.87
+    },
+    {
+        "code": "1449",
+        "name": "佳和",
+        "close": 14.05,
+        "volume": 4144,
+        "percentage": 9.77
+    },
+    {
+        "code": "1471",
+        "name": "首利",
+        "close": 12.25,
+        "volume": 3635,
+        "percentage": 9.87
+    },
+    {
+        "code": "1528",
+        "name": "恩德",
+        "close": 27.35,
+        "volume": 10355,
+        "percentage": 9.84
+    },
+    {
+        "code": "1568",
+        "name": "倉佑",
+        "close": 49.8,
+        "volume": 3710,
+        "percentage": 9.81
+    },
+    {
+        "code": "1718",
+        "name": "中纖",
+        "close": 7.28,
+        "volume": 17991,
+        "percentage": 9.97
+    },
+    {
+        "code": "1809",
+        "name": "中釉",
+        "close": 47.9,
+        "volume": 13633,
+        "percentage": 9.99
+    },
+    {
+        "code": "2243",
+        "name": "宏旭-KY",
+        "close": 29.95,
+        "volume": 3608,
+        "percentage": 9.71
+    },
+    {
+        "code": "2324",
+        "name": "仁寶",
+        "close": 40.35,
+        "volume": 113043,
+        "percentage": 9.95
+    },
+    {
+        "code": "2328",
+        "name": "廣宇",
+        "close": 61.0,
+        "volume": 26828,
+        "percentage": 9.91
+    },
+    {
+        "code": "2331",
+        "name": "精英",
+        "close": 24.4,
+        "volume": 7498,
+        "percentage": 9.91
+    },
+    {
+        "code": "2353",
+        "name": "宏碁",
+        "close": 38.7,
+        "volume": 27395,
+        "percentage": 9.94
+    },
+    {
+        "code": "2356",
+        "name": "英業達",
+        "close": 77.2,
+        "volume": 241053,
+        "percentage": 9.97
+    },
+    {
+        "code": "2357",
+        "name": "華碩",
+        "close": 837.0,
+        "volume": 4445,
+        "percentage": 9.99
+    },
+    {
+        "code": "2382",
+        "name": "廣達",
+        "close": 372.5,
+        "volume": 76692,
+        "percentage": 9.88
+    },
+    {
+        "code": "2408",
+        "name": "南亞科",
+        "close": 381.5,
+        "volume": 129059,
+        "percentage": 9.94
+    },
+    {
+        "code": "2417",
+        "name": "圓剛",
+        "close": 53.9,
+        "volume": 13058,
+        "percentage": 10.0
+    },
+    {
+        "code": "2462",
+        "name": "良得電",
+        "close": 23.1,
+        "volume": 1273,
+        "percentage": 10.0
+    },
+    {
+        "code": "2468",
+        "name": "華經",
+        "close": 36.5,
+        "volume": 988,
+        "percentage": 9.94
+    },
+    {
+        "code": "2474",
+        "name": "可成",
+        "close": 223.5,
+        "volume": 7965,
+        "percentage": 9.83
+    },
+    {
+        "code": "2491",
+        "name": "吉祥全",
+        "close": 25.6,
+        "volume": 2101,
+        "percentage": 9.87
+    },
+    {
+        "code": "2497",
+        "name": "怡利電",
+        "close": 65.6,
+        "volume": 5008,
+        "percentage": 9.88
+    },
+    {
+        "code": "2601",
+        "name": "益航",
+        "close": 5.76,
+        "volume": 5897,
+        "percentage": 9.92
+    },
+    {
+        "code": "2605",
+        "name": "新興",
+        "close": 33.2,
+        "volume": 16558,
+        "percentage": 9.93
+    },
+    {
+        "code": "3002",
+        "name": "歐格",
+        "close": 19.45,
+        "volume": 1250,
+        "percentage": 9.89
+    },
+    {
+        "code": "3011",
+        "name": "今皓",
+        "close": 14.5,
+        "volume": 7269,
+        "percentage": 9.85
+    },
+    {
+        "code": "3015",
+        "name": "全漢",
+        "close": 55.2,
+        "volume": 2367,
+        "percentage": 9.96
+    },
+    {
+        "code": "3021",
+        "name": "鴻名",
+        "close": 33.1,
+        "volume": 1114,
+        "percentage": 9.97
+    },
+    {
+        "code": "3029",
+        "name": "零壹",
+        "close": 105.5,
+        "volume": 5786,
+        "percentage": 9.67
+    },
+    {
+        "code": "3046",
+        "name": "建碁",
+        "close": 64.0,
+        "volume": 4371,
+        "percentage": 9.97
+    },
+    {
+        "code": "3057",
+        "name": "喬鼎",
+        "close": 22.4,
+        "volume": 1590,
+        "percentage": 9.54
+    },
+    {
+        "code": "3058",
+        "name": "立德",
+        "close": 9.36,
+        "volume": 3241,
+        "percentage": 9.99
+    },
+    {
+        "code": "3059",
+        "name": "華晶科",
+        "close": 46.45,
+        "volume": 23546,
+        "percentage": 9.68
+    },
+    {
+        "code": "3092",
+        "name": "鴻碩",
+        "close": 31.95,
+        "volume": 1596,
+        "percentage": 9.61
+    },
+    {
+        "code": "3149",
+        "name": "正達",
+        "close": 78.3,
+        "volume": 7001,
+        "percentage": 9.97
+    },
+    {
+        "code": "3229",
+        "name": "晟鈦",
+        "close": 54.4,
+        "volume": 2094,
+        "percentage": 9.9
+    },
+    {
+        "code": "3231",
+        "name": "緯創",
+        "close": 174.0,
+        "volume": 94609,
+        "percentage": 9.78
+    },
+    {
+        "code": "3296",
+        "name": "勝德",
+        "close": 21.8,
+        "volume": 296,
+        "percentage": 9.82
+    },
+    {
+        "code": "3312",
+        "name": "弘憶股",
+        "close": 55.1,
+        "volume": 6614,
+        "percentage": 9.98
+    },
+    {
+        "code": "3338",
+        "name": "泰碩",
+        "close": 80.7,
+        "volume": 1669,
+        "percentage": 9.95
+    },
+    {
+        "code": "3346",
+        "name": "麗清",
+        "close": 23.55,
+        "volume": 1474,
+        "percentage": 9.79
+    },
+    {
+        "code": "3450",
+        "name": "聯鈞",
+        "close": 539.0,
+        "volume": 10680,
+        "percentage": 9.89
+    },
+    {
+        "code": "3481",
+        "name": "群創",
+        "close": 56.1,
+        "volume": 478118,
+        "percentage": 10.0
+    },
+    {
+        "code": "3528",
+        "name": "安馳",
+        "close": 129.0,
+        "volume": 1451,
+        "percentage": 9.79
+    },
+    {
+        "code": "3532",
+        "name": "台勝科",
+        "close": 350.5,
+        "volume": 1076,
+        "percentage": 9.87
+    },
+    {
+        "code": "3535",
+        "name": "晶彩科",
+        "close": 134.5,
+        "volume": 6979,
+        "percentage": 9.8
+    },
+    {
+        "code": "3661",
+        "name": "世芯-KY",
+        "close": 4855.0,
+        "volume": 2425,
+        "percentage": 9.97
+    },
+    {
+        "code": "4526",
+        "name": "東台",
+        "close": 42.8,
+        "volume": 15995,
+        "percentage": 9.88
+    },
+    {
+        "code": "4540",
+        "name": "全球傳動",
+        "close": 75.4,
+        "volume": 18060,
+        "percentage": 9.91
+    },
+    {
+        "code": "4562",
+        "name": "穎漢",
+        "close": 45.55,
+        "volume": 3404,
+        "percentage": 9.89
+    },
+    {
+        "code": "5484",
+        "name": "慧友",
+        "close": 53.6,
+        "volume": 2308,
+        "percentage": 9.95
+    },
+    {
+        "code": "6112",
+        "name": "邁達特",
+        "close": 47.05,
+        "volume": 4145,
+        "percentage": 9.93
+    },
+    {
+        "code": "6116",
+        "name": "彩晶",
+        "close": 18.8,
+        "volume": 58323,
+        "percentage": 9.94
+    },
+    {
+        "code": "6155",
+        "name": "鈞寶",
+        "close": 69.0,
+        "volume": 20681,
+        "percentage": 9.87
+    },
+    {
+        "code": "6213",
+        "name": "聯茂",
+        "close": 295.0,
+        "volume": 31063,
+        "percentage": 9.87
+    },
+    {
+        "code": "6214",
+        "name": "精誠",
+        "close": 144.0,
+        "volume": 4021,
+        "percentage": 9.92
+    },
+    {
+        "code": "6269",
+        "name": "台郡",
+        "close": 69.1,
+        "volume": 3699,
+        "percentage": 9.86
+    },
+    {
+        "code": "6282",
+        "name": "康舒",
+        "close": 65.8,
+        "volume": 103122,
+        "percentage": 9.85
+    },
+    {
+        "code": "6451",
+        "name": "訊芯-KY",
+        "close": 627.0,
+        "volume": 5780,
+        "percentage": 10.0
+    },
+    {
+        "code": "6456",
+        "name": "GIS-KY",
+        "close": 83.9,
+        "volume": 36104,
+        "percentage": 9.67
+    },
+    {
+        "code": "6689",
+        "name": "伊雲谷",
+        "close": 71.5,
+        "volume": 578,
+        "percentage": 10.0
+    },
+    {
+        "code": "6805",
+        "name": "富世達",
+        "close": 2120.0,
+        "volume": 2968,
+        "percentage": 9.84
+    },
+    {
+        "code": "6806",
+        "name": "森崴能源",
+        "close": 7.38,
+        "volume": 5942,
+        "percentage": 9.99
+    },
+    {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "close": 189.5,
+        "volume": 651,
+        "percentage": 9.86
+    },
+    {
+        "code": "7721",
+        "name": "微程式",
+        "close": 80.0,
+        "volume": 1787,
+        "percentage": 9.89
+    },
+    {
+        "code": "7768",
+        "name": "頌勝科技",
+        "close": 416.0,
+        "volume": 1078,
+        "percentage": 9.91
+    },
+    {
+        "code": "7827",
+        "name": "漢康-KY創",
+        "close": 153.5,
+        "volume": 1579,
+        "percentage": 12.04
+    },
+    {
+        "code": "8101",
+        "name": "華冠",
+        "close": 14.55,
+        "volume": 59,
+        "percentage": 9.81
+    },
+    {
+        "code": "8105",
+        "name": "凌巨",
+        "close": 19.3,
+        "volume": 20015,
+        "percentage": 9.97
+    },
+    {
+        "code": "8162",
+        "name": "微矽電子-創",
+        "close": 80.8,
+        "volume": 792,
+        "percentage": 9.93
+    },
+    {
+        "code": "8215",
+        "name": "明基材",
+        "close": 32.35,
+        "volume": 18534,
+        "percentage": 9.85
+    },
+    {
+        "code": "8473",
+        "name": "山林水",
+        "close": 55.4,
+        "volume": 6381,
+        "percentage": 9.92
+    },
+    {
+        "code": "9105",
+        "name": "泰金寶-DR",
+        "close": 9.68,
+        "volume": 192788,
+        "percentage": 10.0
+    },
+    {
+        "code": "912000",
+        "name": "晨訊科-DR",
+        "close": 2.64,
+        "volume": 1732,
+        "percentage": 10.0
+    }
+]
