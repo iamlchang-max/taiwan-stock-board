@@ -7,13 +7,11 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 <body class="bg-gray-900 text-gray-100 min-h-screen p-8">
-
     <div class="max-w-4xl mx-auto">
         <header class="mb-8 border-b border-gray-700 pb-4">
             <h1 class="text-3xl font-bold text-red-500">📈 台股每日漲停飆股看板</h1>
-            <p class="text-gray-400 mt-2">資料日期：2026-06-01 (測試資料)</p>
+            <p class="text-gray-400 mt-2" id="data-date">資料日期：載入中...</p>
         </header>
-
         <div class="bg-gray-800 rounded-lg shadow-xl overflow-hidden">
             <table class="w-full text-left border-collapse">
                 <thead>
@@ -33,16 +31,24 @@
             </table>
         </div>
     </div>
-
     <script>
-       // 改成讀取固定的 data.json
-       fetch('data.json')
+        fetch('data.json')
             .then(response => response.json())
             .then(data => {
+                // 動態填入日期
+                document.getElementById('data-date').textContent = `資料日期：${data.date}`;
+
                 const tbody = document.getElementById('stock-list');
-                tbody.innerHTML = ''; // 清空原本的載入中字樣
-                
-                data.forEach(stock => {
+                tbody.innerHTML = '';
+
+                if (!data.stocks || data.stocks.length === 0) {
+                    tbody.innerHTML = `
+                        <tr><td class="p-4 text-gray-400" colspan="5">今日無漲停股票資料</td></tr>
+                    `;
+                    return;
+                }
+
+                data.stocks.forEach(stock => {
                     const row = `
                         <tr class="border-b border-gray-700 hover:bg-gray-750 transition-colors">
                             <td class="p-4 font-mono text-blue-400">${stock.code}</td>
@@ -57,6 +63,7 @@
             })
             .catch(error => {
                 console.error('Error loading JSON:', error);
+                document.getElementById('data-date').textContent = '資料日期：載入失敗';
                 document.getElementById('stock-list').innerHTML = `
                     <tr><td class="p-4 text-red-400" colspan="5">無法載入 JSON 資料，請確認檔案是否存在。</td></tr>
                 `;
