@@ -62,7 +62,7 @@ def get_twse_limit_up():
                             "code": row[0],
                             "name": row[1],
                             "close": close_price,
-                            "volume": vol_sheets, 
+                            "volume": vol_sheets,
                             "percentage": round(percentage, 2)
                         })
         except Exception:
@@ -73,7 +73,15 @@ def get_twse_limit_up():
 if __name__ == "__main__":
     result = get_twse_limit_up()
     
-    # 【核心改動】：將結果存成本地的 data.json 檔案
+    # 日期格式改成 YYYY-MM-DD 顯示用
+    today_display = datetime.now().strftime('%Y-%m-%d')
+    
+    output = {
+        "date": today_display,
+        "stocks": result
+    }
+    
     with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=4)
-    print("Successfully saved to data.json")
+        json.dump(output, f, ensure_ascii=False, indent=4)
+    
+    print(f"Successfully saved to data.json ({len(result)} stocks on {today_display})")
