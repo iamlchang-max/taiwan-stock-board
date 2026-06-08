@@ -1,145 +1,124 @@
 {
-    "date": "2026-06-05",
+    "date": "2026-06-08",
     "stocks": [
         {
-            "code": "1810",
-            "name": "和成",
-            "close": 22.6,
-            "volume": 23846,
-            "percentage": 9.98
+            "code": "1449",
+            "name": "佳和",
+            "close": 14.9,
+            "volume": 6598,
+            "percentage": 9.96
         },
         {
-            "code": "1906",
-            "name": "寶隆",
-            "close": 12.55,
-            "volume": 1001,
-            "percentage": 9.61
+            "code": "1455",
+            "name": "集盛",
+            "close": 10.0,
+            "volume": 4917,
+            "percentage": 9.89
+        },
+        {
+            "code": "1714",
+            "name": "和桐",
+            "close": 12.65,
+            "volume": 19134,
+            "percentage": 10.0
+        },
+        {
+            "code": "1786",
+            "name": "科妍",
+            "close": 60.6,
+            "volume": 1635,
+            "percentage": 9.98
         },
         {
             "code": "2025",
             "name": "千興",
-            "close": 13.4,
-            "volume": 2025,
-            "percentage": 9.84
+            "close": 14.7,
+            "volume": 3562,
+            "percentage": 9.7
+        },
+        {
+            "code": "2059",
+            "name": "川湖",
+            "close": 6180.0,
+            "volume": 566,
+            "percentage": 9.96
         },
         {
             "code": "2241",
             "name": "艾姆勒",
-            "close": 35.4,
-            "volume": 3727,
-            "percentage": 9.94
+            "close": 38.9,
+            "volume": 9187,
+            "percentage": 9.89
         },
         {
-            "code": "2461",
-            "name": "光群雷",
-            "close": 19.5,
-            "volume": 9408,
-            "percentage": 9.86
+            "code": "2468",
+            "name": "華經",
+            "close": 44.95,
+            "volume": 10941,
+            "percentage": 9.9
         },
         {
             "code": "2483",
             "name": "百容",
-            "close": 30.45,
-            "volume": 10502,
-            "percentage": 9.93
+            "close": 33.45,
+            "volume": 10875,
+            "percentage": 9.85
         },
         {
-            "code": "2528",
-            "name": "皇普",
-            "close": 23.35,
-            "volume": 2961,
-            "percentage": 9.88
+            "code": "6153",
+            "name": "嘉聯益",
+            "close": 20.35,
+            "volume": 23126,
+            "percentage": 10.0
         },
         {
-            "code": "3015",
-            "name": "全漢",
-            "close": 68.9,
-            "volume": 23541,
-            "percentage": 9.89
-        },
-        {
-            "code": "3018",
-            "name": "隆銘綠能",
-            "close": 11.75,
-            "volume": 140,
-            "percentage": 9.81
-        },
-        {
-            "code": "3376",
-            "name": "新日興",
-            "close": 237.0,
-            "volume": 15188,
-            "percentage": 9.98
-        },
-        {
-            "code": "4190",
-            "name": "佐登-KY",
-            "close": 27.25,
-            "volume": 299,
-            "percentage": 9.88
-        },
-        {
-            "code": "6155",
-            "name": "鈞寶",
-            "close": 79.3,
-            "volume": 16373,
-            "percentage": 9.99
-        },
-        {
-            "code": "6409",
-            "name": "旭隼",
-            "close": 928.0,
-            "volume": 2102,
-            "percentage": 9.95
+            "code": "6585",
+            "name": "鼎基",
+            "close": 123.0,
+            "volume": 3575,
+            "percentage": 9.82
         },
         {
             "code": "6645",
             "name": "金萬林-創",
-            "close": 12.95,
-            "volume": 217,
-            "percentage": 9.75
+            "close": 14.2,
+            "volume": 631,
+            "percentage": 9.65
         },
         {
-            "code": "6862",
-            "name": "三集瑞-KY",
-            "close": 204.5,
-            "volume": 1572,
-            "percentage": 9.95
-        },
-        {
-            "code": "6885",
-            "name": "全福生技",
-            "close": 26.55,
-            "volume": 1453,
-            "percentage": 9.94
-        },
-        {
-            "code": "7722",
-            "name": "LINEPAY",
-            "close": 305.5,
-            "volume": 231,
-            "percentage": 9.89
+            "code": "6901",
+            "name": "鑽石投資",
+            "close": 15.7,
+            "volume": 7754,
+            "percentage": 9.79
         },
         {
             "code": "7788",
             "name": "松川精密",
-            "close": 224.0,
-            "volume": 4318,
-            "percentage": 9.8
-        },
-        {
-            "code": "7799",
-            "name": "禾榮科",
-            "close": 390.0,
-            "volume": 1992,
-            "percentage": 9.7
+            "close": 246.0,
+            "volume": 6900,
+            "percentage": 9.82
         },
         {
             "code": "8454",
             "name": "富邦媒",
-            "close": 353.0,
-            "volume": 4338,
-            "percentage": 9.97
+            "close": 388.0,
+            "volume": 3356,
+            "percentage": 9.92
+        },
+        {
+            "code": "8476",
+            "name": "台境*",
+            "close": 17.3,
+            "volume": 952,
+            "percentage": 9.84
+        },
+        {
+            "code": "9136",
+            "name": "巨騰-DR",
+            "close": 17.75,
+            "volume": 6494,
+            "percentage": 9.91
         }
     ]
 }
