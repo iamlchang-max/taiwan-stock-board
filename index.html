@@ -11,6 +11,7 @@
         <header class="mb-8 border-b border-gray-700 pb-4">
             <h1 class="text-3xl font-bold text-red-500">📈 台股每日漲停飆股看板</h1>
             <p class="text-gray-400 mt-2" id="data-date">資料日期：載入中...</p>
+            <p class="text-gray-500 text-sm mt-1">💡 點擊股票可展開相關新聞</p>
         </header>
         <div class="bg-gray-800 rounded-lg shadow-xl overflow-hidden">
             <table class="w-full text-left border-collapse">
@@ -21,11 +22,12 @@
                         <th class="p-4 font-semibold">收盤價</th>
                         <th class="p-4 font-semibold">漲幅</th>
                         <th class="p-4 font-semibold">成交量 (張)</th>
+                        <th class="p-4 font-semibold">新聞</th>
                     </tr>
                 </thead>
                 <tbody id="stock-list">
                     <tr class="border-b border-gray-700">
-                        <td class="p-4 text-gray-400" colspan="5">正在載入股票資料...</td>
+                        <td class="p-4 text-gray-400" colspan="6">正在載入股票資料...</td>
                     </tr>
                 </tbody>
             </table>
@@ -37,35 +39,76 @@
             .then(data => {
                 // 動態填入日期
                 document.getElementById('data-date').textContent = `資料日期：${data.date}`;
-
                 const tbody = document.getElementById('stock-list');
                 tbody.innerHTML = '';
-
                 if (!data.stocks || data.stocks.length === 0) {
                     tbody.innerHTML = `
-                        <tr><td class="p-4 text-gray-400" colspan="5">今日無漲停股票資料</td></tr>
+                        <tr><td class="p-4 text-gray-400" colspan="6">今日無漲停股票資料</td></tr>
                     `;
                     return;
                 }
+                data.stocks.forEach((stock, index) => {
+                    // 新聞資料（舊格式的 data.json 沒有 news 欄位，要防呆）
+                    const newsList = stock.news || [];
+                    const newsCount = newsList.length;
 
-                data.stocks.forEach(stock => {
-                    const row = `
-                        <tr class="border-b border-gray-700 hover:bg-gray-750 transition-colors">
-                            <td class="p-4 font-mono text-blue-400">${stock.code}</td>
-                            <td class="p-4 font-bold">${stock.name}</td>
-                            <td class="p-4 text-yellow-400 font-semibold">${stock.close}</td>
-                            <td class="p-4 text-red-500 font-bold">+${stock.percentage}%</td>
-                            <td class="p-4 text-gray-300">${stock.volume.toLocaleString()}</td>
-                        </tr>
+                    // 新聞徽章：有新聞顯示數量，沒新聞顯示警告
+                    const newsBadge = newsCount > 0
+                        ? `<span class="bg-blue-600 text-white text-xs px-2 py-1 rounded-full">📰 ${newsCount} 則</span>`
+                        : `<span class="bg-gray-600 text-gray-300 text-xs px-2 py-1 rounded-full">⚠️ 無題材</span>`;
+
+                    // 主要的股票列
+                    const mainRow = document.createElement('tr');
+                    mainRow.className = 'border-b border-gray-700 hover:bg-gray-700 transition-colors cursor-pointer';
+                    mainRow.innerHTML = `
+                        <td class="p-4 font-mono text-blue-400">${stock.code}</td>
+                        <td class="p-4 font-bold">${stock.name}</td>
+                        <td class="p-4 text-yellow-400 font-semibold">${stock.close}</td>
+                        <td class="p-4 text-red-500 font-bold">+${stock.percentage}%</td>
+                        <td class="p-4 text-gray-300">${stock.volume.toLocaleString()}</td>
+                        <td class="p-4">${newsBadge}</td>
                     `;
-                    tbody.innerHTML += row;
+
+                    // 展開後顯示的新聞列（預設隱藏）
+                    const newsRow = document.createElement('tr');
+                    newsRow.className = 'hidden bg-gray-850';
+                    newsRow.id = `news-${index}`;
+
+                    let newsContent;
+                    if (newsCount > 0) {
+                        newsContent = newsList.map(n => `
+                            <a href="${n.link}" target="_blank" rel="noopener"
+                               class="block py-2 px-4 rounded hover:bg-gray-700 transition-colors">
+                                <span class="text-gray-500 text-sm font-mono mr-3">${n.pubDate}</span>
+                                <span class="text-blue-300 hover:text-blue-200">${n.title}</span>
+                            </a>
+                        `).join('');
+                    } else {
+                        newsContent = `<p class="py-2 px-4 text-gray-500">⚠️ 最近兩天查無相關新聞，可能為無題材漲停，請留意風險。</p>`;
+                    }
+
+                    newsRow.innerHTML = `
+                        <td colspan="6" class="p-4 bg-gray-900 border-b border-gray-700">
+                            <div class="border-l-4 border-blue-500 pl-2">
+                                ${newsContent}
+                            </div>
+                        </td>
+                    `;
+
+                    // 點擊主列 → 切換新聞列的顯示/隱藏
+                    mainRow.addEventListener('click', () => {
+                        newsRow.classList.toggle('hidden');
+                    });
+
+                    tbody.appendChild(mainRow);
+                    tbody.appendChild(newsRow);
                 });
             })
             .catch(error => {
                 console.error('Error loading JSON:', error);
                 document.getElementById('data-date').textContent = '資料日期：載入失敗';
                 document.getElementById('stock-list').innerHTML = `
-                    <tr><td class="p-4 text-red-400" colspan="5">無法載入 JSON 資料，請確認檔案是否存在。</td></tr>
+                    <tr><td class="p-4 text-red-400" colspan="6">無法載入 JSON 資料，請確認檔案是否存在。</td></tr>
                 `;
             });
     </script>
