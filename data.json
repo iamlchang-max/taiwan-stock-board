@@ -1,434 +1,101 @@
 {
-    "date": "2026-07-06",
+    "date": "2026-07-07",
     "stocks": [
         {
-            "code": "1609",
-            "name": "大亞",
-            "close": 43.75,
-            "volume": 27412,
-            "percentage": 9.92,
-            "news": [
-                {
-                    "title": "【10:19 即時新聞】大亞(1609)亮燈漲停43.75，AI電纜＋無人機題材發酵，多頭結構搭配法人與主力同步偏多 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUdleTU0cDZRRzBxdldHLUppV0JWUEUwTU55WDQ4RElTSm1HYjRCMkdjVlhWa3B4dG1vZU1aeEJkN1dmLUFCOF9KVkI0TjVwSXNFMHJPZFV4bFZhQy1LdGNFMDc1MWpyLUZjN3NMY0dTbFk1QTFHbEZtbU9aUnljcHQ2MF8wSjFyLTk4OTBR?oc=5",
-                    "pubDate": "07-06 10:19"
-                }
-            ]
-        },
-        {
-            "code": "1623",
-            "name": "大東電",
-            "close": 235.0,
-            "volume": 1863,
-            "percentage": 9.81,
-            "news": []
-        },
-        {
-            "code": "1721",
-            "name": "三晃",
-            "close": 29.05,
-            "volume": 11243,
-            "percentage": 9.83,
-            "news": [
-                {
-                    "title": "三晃(1721) 個股概覽 | 個股 - 股市 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nanl6ako5RWZSaUJBS1VYUDcyQkdqcjZlcmFuN2E3VE0tS21hQnBBY05McVRlU1NHYzdlNW1DaFgwZGs0TUNWS3Zpbm04bXpsVEhn?oc=5",
-                    "pubDate": "07-05 23:07"
-                }
-            ]
-        },
-        {
-            "code": "2305",
-            "name": "全友",
-            "close": 42.65,
-            "volume": 2877,
-            "percentage": 9.92,
-            "news": [
-                {
-                    "title": "【11:50 即時新聞】全友(2305)股價上漲逼近漲停，光通訊與AI題材延燒＋外資與大戶買盤推動技術面續強 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVdPY0FfRDZGRmFHNlBXZEoxeWRPcThLNUFJdmlLZ2xhS1A3XzZ2QXJESGE0MDZDcTRpTkluazh0aS1EMks3cXRaREtRcE94dnVORjY0dl93dm9tM1NjYUxvYzFlWXAtOTAyN0dac0xkdVpkY2t3eWdETWVoOEJDUUsxYWI4c2xVVjYyX2pB?oc=5",
-                    "pubDate": "07-06 11:51"
-                },
-                {
-                    "title": "【量大強漲股整理】【台股震撼彈】【2305全友】+70%漲完換誰？驚見下一檔噴發神股在哪?!接棒訊號已出現?! - news.cnyes.com",
-                    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BUElYaXJ2TTBJMFFmTEIwMGE1VUhkbWRqZWdPZVdZUVo3M3NDd2IyQmxVWjlKVkR2TXdnV0ozdGozSW9UY3FVWFRsYmhvSTQ?oc=5",
-                    "pubDate": "07-06 17:35"
-                }
-            ]
-        },
-        {
-            "code": "2351",
-            "name": "順德",
-            "close": 228.0,
-            "volume": 15225,
-            "percentage": 9.88,
-            "news": [
-                {
-                    "title": "【11:03 即時新聞】順德(2351)亮燈漲停至228，AI導線架與資料中心電源題材發酵＋股價偏離季線後主力長線佈局成焦點 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEdGTmFnb3lJRUtPYjVDd29lUVNfRERRSXZjbS1JQkRsQUZKMFk1QzFRdVdac0dCME1YSkU3b09Ec0w2RmFHVHdvYXZvUFNsOFJXUDN1RFZUTWxYWjZfQzJGVE5rRWhsRFVEQmVlblV1ZnpXNWpkVGNUUXJUbnhwRVRxeGlHZk9lWU5PQUdB?oc=5",
-                    "pubDate": "07-06 11:04"
-                }
-            ]
-        },
-        {
-            "code": "2352",
-            "name": "佳世達",
-            "close": 35.4,
-            "volume": 51699,
-            "percentage": 9.94,
-            "news": [
-                {
-                    "title": "佳世達(2352) 個股概覽 | 個股 - 股市 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTE1tUXBqLVlRTnBJOEM0MnNBeVNEQzdXX2RsYm90UWN4NHYyZm1HQ0dYSEtyV2FTaXgwVG9xazg1UkpNbnVZSzVHZlVEMXJTODJN?oc=5",
-                    "pubDate": "07-06 09:47"
-                }
-            ]
-        },
-        {
-            "code": "2369",
-            "name": "菱生",
-            "close": 43.2,
-            "volume": 30482,
-            "percentage": 9.92,
-            "news": [
-                {
-                    "title": "菱生漲回來..這大盤有點狠！ - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LNlQ2TDJTbXktaUdBT3NyUFhVSEp0RmE1allJQjAzM0hUY21zdWhuMVJVR3NpTHJhMVdtRkRTT0w3UVJiSUptV29VSEJUcXQwaEd5aXBBcTc?oc=5",
-                    "pubDate": "07-05 18:18"
-                }
-            ]
-        },
-        {
-            "code": "2399",
-            "name": "映泰",
-            "close": 55.0,
-            "volume": 22982,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "【12:45 即時新聞】映泰(2399)股價勁揚8.2%至54.1元，邊緣AI新品題材推升買盤＋短線技術結構轉強吸引資金迴流 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFBmWWVKNkZBdGdXemthWmVzdnBsNjE3TktHdEFWaHgxODVCSDNLcU5jRW5CajV2Z1hMZEtaZ2t6eHFvM1hnRmNYWVFERUZOaGJIUHNGbHhNVC1FeW5XREdjNHRJNERIY1NmS09DNWlRRW1HVnJMbnI2c3ZVQnZnRkFRdGNQMkQxSjJFaTV3?oc=5",
-                    "pubDate": "07-06 12:46"
-                }
-            ]
-        },
-        {
-            "code": "2415",
-            "name": "錩新",
-            "close": 41.65,
-            "volume": 1392,
-            "percentage": 9.89,
-            "news": [
-                {
-                    "title": "【10:53 即時新聞】錩新(2415)亮燈漲停41.65元，中低價電子零組件＋均線多頭結構吸引買盤 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWdsc3l4YS13ZTVnYzdQeVRDV0RaNVhWUm0xYVVxdWkwNU44NHJkc2Fqa0o0STRabXRMYXdrS09VSzRoYmo2X0daeGtkYVBMbk9IZ3R4cTk0bExEX2o1dlRVdGhmT1dvMER2TGFKWGZIWkNLYkYtd3I4YnRGdU1VTndoOUtBWVFqNkxVMWRn?oc=5",
-                    "pubDate": "07-06 10:54"
-                }
-            ]
-        },
-        {
-            "code": "2466",
-            "name": "冠西電",
-            "close": 94.8,
-            "volume": 1976,
+            "code": "3046",
+            "name": "建碁",
+            "close": 58.4,
+            "volume": 5304,
             "percentage": 9.98,
             "news": [
                 {
-                    "title": "冠西電(2466)、晟田(4541)主力點火怎麼看？｜大戶投策略選股｜融資主力追漲表態股｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-                    "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQQzVqTlJxamM5S1Z6ZEo4ekQ4OHp6YUY1d2FRR2xzU2FwZHRseUV4Y0VoSFo3SURUWDhiYmpWSEpWLVZJbFVaRDJRRjJNZVJkSkhrNHVVVVBNbXM1dTFKS015ZWc5MTc2MDBHZExkN2ZPakFHZmNWWGNSck5MRGpxWlhmd3pZZE9VRVBPcE04RWVkS0p6T1R1UE9USmxEeTY4Y3kzNjVIRzBSYXh3dmZ4TmdTOGxqUXl6RGtRUkJjWGJLZjd5WXhmMkhCXzJvNzNIZG10YzZuY3VQSzdtM0pDa3Y0a19zMk9KTzc5eC1DVXprQ096dTlZY0pyaUlSemJxMWNmdTdYMllCY2J6SHhwZXduTjJOZ0JXUTR4TUxDQ2d0NWVESTZoWlNhZExFbTd2RkUtUTFfejZraEtfbUJoSzU2V0Zjbk14XzhrYnlKWVBST3NtWjNxUHAxSUFnM0VoRmFiY1ZvanRoelpwQW45eEZna2U5RzBXNEVjdS1FWEJnQURzdkVKSE1EQnc2ZmFGTDRlQTU5ZVZMT0w2OFJ3M19xcHJqbkNvdHVad200SzZnVjFWVGFOeTdCelVoblVOekUwMm40NHhKSnp3ZDRuX0x5NjNPaEwtd2J3bkFTU1Q?oc=5",
-                    "pubDate": "07-06 14:22"
+                    "title": "今日漲停股｜台股大震盪，生技與AI利基股逆勢漲停，康霈、捷敏-KY、建碁成避風港0707｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+                    "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOdjh2RjFYT1JOQTM0dnVwbnJHVjVkZDN3ZFpkdU5tNnNwX1BVYmxXaXF4U25wVnRGXzF2RktqT2tBcEFNTVlIcVBic3Y5TTBXTFNNX0x4S2w2VFY5MHlybG15VHhtQUExRHpLWFhYaFY4WXR5RE9OdnN5MThlaGY2TmhOc1g5VExlbHA5anN4Rm1zaTdxOEFRYVJ4ZjVOTzhZbzZZM2txVkhHN3pvR2U1Nmhwa1hzMURRT1dhWGNUYm50a3cxUE80dVZxZjBVb0VsV2VPVm1HZWswU2xQb0tnN01ndUljLVJldFJnazlNYld6WGFDaGkwYW8xelp0UXIzcFh0ZFBnYmxTdWRlNnBmNGltTEt1WUpvRTQ0aWFscnRmUEs5YVJzcVlOZE9kQThDSF9leDFWbTZnZmZDOXB6NnFEOE15TksxNHRUUEJTaHpkTTR3ekIzSEN1My1ab090ZGlHbERzVVloQjNUR25XamwwalRTN3ZOLXdGbFVRS3VtRnhTYjJGdEVlWVduVDJkMmxKMTFndFJoajRFYXM0NmtiX0dLNmxGN2xOWkJCTmtVeXBGSTMwdXE3X1FXZXBueC14eHgtMVZBelZ4Qk5nME80SVh4SURtVE1JQzZqYUlOQlpHZkNPSXFIWjV3SmptMnp3aXZSazg?oc=5",
+                    "pubDate": "07-07 14:43"
                 },
                 {
-                    "title": "【09:37 即時新聞】冠西電(2466)亮燈漲停至94.8元，AI光通訊題材發酵＋主力與法人買盤集中推升攻勢 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZF9vV2hDRHdaRVoxODJLam1MX0JZenRBMXlDXy1GSFhJNFBmM2htUTgzUzFFMzE0ZDBUZzUwRUU3NWlUY25xWnVwTzF0Ml94WHp6c3JkR0swSXhCa1ozelRLZWFLbHkwY2ZoVFZWUldkSFI4aC01VldrQkN5eXRIa0hmNXZ5Y3hRVU5PVmhR?oc=5",
-                    "pubDate": "07-06 09:38"
+                    "title": "台股史上第8慘失守46K！禾伸堂、景碩等跌停　康霈、建碁逆勢漲停 - 鏡週刊Mirror Media",
+                    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IbTRmMWFRNFhsNUpXbzB3UG96TVlJczBsS3I3WFVPdXJJTFY2U0Vva1A4dDZlQzdJNjdpT3ViQ2Nab2RWVXdONkpJczhJdlIwM0tTVU4xbzZlRmfSAWBBVV95cUxORzZ5ZjE0dmZTdHpabTluUWFZenUyTUs1RGtCNWdRVkt5WDFWbEtCXzA4SVhMX2JteDd6SzRMeGkwSTVDY0RHNnBsc09VSkZRLXRXVzhzbEU3RnUtUHBYSkg?oc=5",
+                    "pubDate": "07-07 14:05"
                 }
             ]
         },
         {
-            "code": "2481",
-            "name": "強茂",
-            "close": 227.5,
-            "volume": 8453,
-            "percentage": 9.9,
+            "code": "3055",
+            "name": "蔚華科",
+            "close": 176.0,
+            "volume": 2405,
+            "percentage": 9.66,
             "news": [
                 {
-                    "title": "【10:40 即時新聞】強茂(2481)亮燈漲停227.5元，高壓功率半導體題材延燒＋多頭技術結構與主力買盤支撐 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelcxN1hQUkVLN3VnaU9xU3FqSmdBaW9OZUlWeFVYamNvM2Flamltb2tPOGJtZUF3MWNfNkxGNm9wR2lfLURIMHBjVzNyOVo2UjBRcmNFN25LNUE2dkcwb3pPSnJ1M0dNV1dJdDFXM21MZDd2NEhFd2l3bUh0SmowSUQxdzdlZFdJbHoybnhn?oc=5",
-                    "pubDate": "07-06 10:43"
-                },
-                {
-                    "title": "強茂(2481)、台半(5425)為何亮燈漲停？德微(3675)還能買？功率元件即將噴出？股癌也關注「缺貨漲價程度不輸被動元件」 - 今周刊",
-                    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbHJtd0xvWHg2VzNlcV9kWmpuRXlteVYxVHZscWYxVkdHUmpUdEJJTnMxMUEwalZac2gxWDNLclVZeng3TTV3QW16VnpUVFJqaFMwM3hyMlFBc1lNVEVuajdqWDhsTS1ISnpXYnJmUUZhRGhiVGdyMjBHVlZmczBWLUw1QnNadXNRT01IVXZZOWd4ZkJ6VWs1elA5QlgzazlCWHRvSEl3ZTFHMkFNT0RhUE9Obmd0YklWSkFHUXA4c0Jja010cExsS0Y3Q1VIWUJGQ2tNN1Fn?oc=5",
-                    "pubDate": "07-06 15:50"
-                },
-                {
-                    "title": "車用、AI 伺服器接棒後，強茂的循環真的不一樣了嗎？ - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNb3VkbW51Y0dMOG1xLUhtODB0ZlIwVnhoeGJ4c19PRGhCZ2lYMzdlNTdUOFFfekpnMWRYVmNiU3p5dkRIa24tLXRqSm9LM2pncWdCWEhMekIwNTI2Q0lzS0xkSXdDb05hUTV6N1QwMDhHM2wtZk5Vb1BnTE1OQzJkSWtHYzBWR0FlMndlTUhsQi1wOVVBcERadTl3d24xamhTTnFXSHFrZUplVEVLYVBtNDNrT0xMSFQwX3FTdmhCeE42VFpqTWlUS1liZlhyX1ZhVFA2MXpQaWNMSXRKZ3dXdDduWU9lNWFuZWxzaG1ETC1RbXF4a3JOMWFCVG80eHZaSHVxUE43NnBGVTFRT0NSU252Zk5PaEpKZGZWSkRvTmhzeFZxTjJjcV95UjhjRHJrNUhDVmJWa2FtT1M3NkE0bWlmYjl4S05qbzIxTmdIUGJTWFZMdXFVdmlDZl9GVi1OYklpTmhuMTVhb0o2UkpHV3YxVlkxV1FoZTdqRVVlajVFWnRob0tDTmdKN283M3BSQVFZRVcwX0Vidw?oc=5",
-                    "pubDate": "07-05 14:38"
-                }
-            ]
-        },
-        {
-            "code": "2497",
-            "name": "怡利電",
-            "close": 66.8,
-            "volume": 4040,
-            "percentage": 9.87,
-            "news": [
-                {
-                    "title": "怡利電6月營收首度衝破5億大關 創單月歷史新高 - 自由時報",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaaW1lQXpyNFBqSmpjdURTZjlOU0p6WlJBdWY5RS1SWjlwc3c5em9pVExEdkxvTVlKU3BJaWhDbk4tX3YwRnZCTW1fOG9hSnlVT1RTZVdBRWo?oc=5",
-                    "pubDate": "07-06 17:07"
-                },
-                {
-                    "title": "營收速報 - 怡利電(2497)6月營收5.12億元年增率高達52.52％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
-                    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RMWhjWlRGSHlnRU1ERkU1dWpfcHV6SmlnbzljQnNMWktGaXpUdC15SGVBTktlcE1aQ1BQakVucThCWXpkc3dXQmFMS2VoUVA5ZWtDNmNhblVIc3ExX3Bnck9zSUxaSElkRnlodUwxbHR2SVdGYXc?oc=5",
-                    "pubDate": "07-05 23:20"
-                },
-                {
-                    "title": "【11:07 即時新聞】怡利電(2497)亮燈漲停，智慧座艙與AR-HUD成長題材發酵＋短中期多頭格局延續 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlp3V29jTkdjWDlPb3dxT2x4TGlzMm9fYUlVUU4wYWhKOTZTN2RaVlJBVkhNbUMwOTJBZUtjcDU5c2E3TXFMMlVqN3JVcHJuTVFYUDZEUENTVFZLMVU3RWZrS0dWdU1Lcm04c3RMQ2ItWlp4NW50allrVmdkckM2TnFwRzhrWVBtR091UnNB?oc=5",
-                    "pubDate": "07-06 11:07"
-                }
-            ]
-        },
-        {
-            "code": "2601",
-            "name": "益航",
-            "close": 6.6,
-            "volume": 5809,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "【09:31 即時新聞】益航(2601)亮燈漲停6.6元，航運題材＋外資與主力買盤同調推升短線多頭結構 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tQzN3X2VVS1NKVlF5SXh0SFNlbG5yVVF5VldpV2FLWTB3OER4MGQ0dzhmZktBdTFmS0VSVko0elNkTmtBT0plOGtYMHljNGtRazF5RVdSZ25HVEl5TnlqekREamR0Ukk?oc=5",
-                    "pubDate": "07-06 09:31"
-                }
-            ]
-        },
-        {
-            "code": "2645",
-            "name": "長榮航太",
-            "close": 238.0,
-            "volume": 13806,
-            "percentage": 9.93,
-            "news": [
-                {
-                    "title": "雷虎、長榮航太、中光電...軍工股漲停能買？法人喊「這檔」上看250元，500億無人機預算誰能吃到？ - 今周刊",
-                    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkVWdUlSZ0VyTW1vZ2ZMcWtQQTlRZWlLRGhCWElRUThXSE14dXJVTDBXQUswWmQwZjJjUGp1bWJNbFZXekkyR1VTUFM1eGtNSGp6Z0xPWTg1UHRrUXcybjllVlBuV0w2R1lDU0pScEZMRC1nNGRIaXh4WjVJVk1Lcw?oc=5",
-                    "pubDate": "07-06 15:16"
-                },
-                {
-                    "title": "【10:16 即時新聞】長榮航太(2645)亮燈漲停至238元，軍工＋無人機政策題材發酵，技術多頭格局配合主力與法人買盤集中 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTFBpNFRzM1NkYjR2RGRCNnF6QjJJSUN5ZDFQck8yMzZzenl2Z2RCNjU2VG92TmEyUGhCRXk5anQ1Wk1xWFBHdGcxOUhkSFl4a1VZNHUtc2VockN4aVN0Yjg3d1NwSzktUWRxd1FHSG5LOUtDZmZ4VGk1VmM1dnZXM0EtLVVWZXlpbmRhQ053?oc=5",
-                    "pubDate": "07-06 10:16"
-                },
-                {
-                    "title": "焦點股》 長榮航太：無人機標案激勵 股價創新高 - 自由時報",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xdHk3NUVab2pUM1ZuUG9NWmtuN3ZlbjhINV9DS1A1MHJPUlgwU0tCRGYxN18zeHd1aEh0dm05eDYzZTJscGpvVGdidzFUdWhlWkhEXzJGZlI?oc=5",
-                    "pubDate": "07-05 19:24"
-                }
-            ]
-        },
-        {
-            "code": "3015",
-            "name": "全漢",
-            "close": 74.8,
-            "volume": 8397,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "全漢(3015) - 富聯網",
-                    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU1EwX0Zxek0yX1BUMExxZXpKZnh2UHQ2VGdlX1Nha0NMT2lwN0dranN3a1BKa0F3NFdpNDhheGdOLVhyTGJCV3k2RVphUUJWOGFQUlJvQ1dsU3ZKTU1TNWl2MWcxbXBKQTRvdFFCc1hvM2ZZS04wdWN0djlxWkxqdVN6U1RuUQ?oc=5",
-                    "pubDate": "07-06 14:11"
-                }
-            ]
-        },
-        {
-            "code": "3094",
-            "name": "聯傑",
-            "close": 42.9,
-            "volume": 4967,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "【09:24 即時新聞】聯傑(3094)亮燈漲停42.9元，受惠聯電集團題材＋月營收連三升帶動短線買盤急拉 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFlwXy1nd0RKS01WRUZLSmNwaGxpTUJQS2ZoMW94OVE2SklQVjNyLV9ZaWVkT2FpTGpEZEhydGswU0J5QmVTdEZnOFIyWUJQYlhuVDRxek5zQkxkRU41TUhVX2o4dndscnF6V3lSSThxVEUxUzB1dGltTG1YRWhGa0dhTnVaNHdxUnlaRmVB?oc=5",
-                    "pubDate": "07-06 09:24"
-                }
-            ]
-        },
-        {
-            "code": "3543",
-            "name": "州巧",
-            "close": 31.95,
-            "volume": 954,
-            "percentage": 9.98,
-            "news": [
-                {
-                    "title": "【09:41 即時新聞】州巧(3543)亮燈漲停31.95，搭AI光電面板題材＋短線主力高檔回補引動急攻 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObF9YbzhLeGtrNE9wdVQxNHpZUGJsNVgxeGRXVG9rT2pqYnYzai1RdTI2ZHVtR28yc0NXQUsxMF90ZS0wZ3o1NGtKMEUyeDMxX2swYXlJV2I4QjJEXzZoWmJSZGR0bTV3TjNFQ1habWdoWGZlWlU4ckp2d0drRnVUTzAwcUhCOUZuR3BKbkJn?oc=5",
-                    "pubDate": "07-06 09:41"
+                    "title": "7檔股今被「抓去關」！這2檔好慘烈列20分撮合 全關到7月17日 - 三立新聞網SETN.com",
+                    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45X1RDZVJvLXFFTmp2NC1WSTc2ZmdQSEsyenpQYTRweW9DcEYzQ0ZoM1Mya1dOeEIzUGs1TC1SYV82M1NfMHkxR1FRTQ?oc=5",
+                    "pubDate": "07-06 05:51"
                 }
             ]
         },
         {
             "code": "4169",
             "name": "泰宗",
-            "close": 244.0,
-            "volume": 165,
-            "percentage": 9.91,
-            "news": []
-        },
-        {
-            "code": "5285",
-            "name": "界霖",
-            "close": 106.5,
-            "volume": 7377,
-            "percentage": 9.91,
+            "close": 268.0,
+            "volume": 2260,
+            "percentage": 9.84,
             "news": [
                 {
-                    "title": "【11:14 即時新聞】界霖(5285)亮燈漲停至106.5元，AI伺服器與車用SiC漲價題材點火＋短線突破百元壓力吸引買盤追價 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGo5UjctVklVSkh4dnVaZ2N5RXJtdzdZRFBta2k4c1NnU2ZEQW1RaEpTaWw4d0JzSnhycXFEZGFqMWc4ZXk2Tnc4Z1RGRW5HM21fdEZiU09PLTUxTDJoYzVFN0VsWm1Bc2V2OGU5TERaNjdQOXNRUEtxRXNPOVQ3ejJFdUZJYlBaVldKVWtn?oc=5",
-                    "pubDate": "07-06 11:14"
+                    "title": "泰宗取得”高劑量鐵”注射劑台灣獨家總代理權 滿足臨床迫切需求 - 鏡週刊Mirror Media",
+                    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNmZwRWlJWVEzbVhlZmFfc3JYMlJnOWozZHhhVjlTaVdtRDh3VjVMVzd0TEwzd2F5RmxQZGk0cHpzQ1FpcFZTLVBKVEJFR3pGbG5VMHVVN1VEa2Jqc1RNamRxbThiZ9IBa0FVX3lxTE10STRsTjRYVHE4TllkR21DUWY0V3FNX1RZVlFaREl4U2tQQk9pOFl5cUctS2VHM1BYVk9fd29rUV91dW53YjRsT0FST1hxcGhzQVdma085bUtnWDhQUmE4WS03U3FLY1BmeHln?oc=5",
+                    "pubDate": "07-07 17:36"
                 }
             ]
         },
         {
-            "code": "6431",
-            "name": "光麗-KY",
-            "close": 19.6,
-            "volume": 301,
-            "percentage": 9.8,
+            "code": "6416",
+            "name": "瑞祺電通",
+            "close": 91.0,
+            "volume": 1214,
+            "percentage": 9.9,
             "news": []
         },
         {
             "code": "6525",
             "name": "捷敏-KY",
-            "close": 201.0,
-            "volume": 2933,
-            "percentage": 9.84,
-            "news": []
-        },
-        {
-            "code": "6573",
-            "name": "虹揚-KY",
-            "close": 27.6,
-            "volume": 2722,
-            "percentage": 9.96,
+            "close": 221.0,
+            "volume": 8084,
+            "percentage": 9.95,
             "news": [
                 {
-                    "title": "【12:11 即時新聞】虹揚-KY(6573)股價勁揚近一成站上27.5元，AI電源與高功率分離式元件題材加溫＋短線突破中段壓力、主力短多回補 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMXJFbFNUOVBVN3BYaGJSVGdXazRCV2c3NFNtSXpTR3NGWXNaaXltRTIyWTJXUHhiQVpRenYxdHBmWDBVWjBsQks1X3VOT2IxbzhFMllkc0JxZVlzTXhMY3ZLMER6SFU?oc=5",
-                    "pubDate": "07-06 12:12"
-                },
-                {
-                    "title": "【07/06 產業即時新聞】矽晶圓盤中轉強！環球晶領漲撐盤，法人關注景氣復甦訊號。 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RkkzS0N2UXRRSFpxR29CYVJlRmVkTEI1U0wtNF9zcUxFYVNsTmZfU2dUX3k3ZS1tcEZZUEVESFZjU3ZxUTRwUDFlTE9BRVN1UjI1NlhGV0hnYVlNLVd5bjVjSjk2UDg?oc=5",
-                    "pubDate": "07-06 12:13"
+                    "title": "【11:17 即時新聞】捷敏-KY(6525)亮燈漲停至201元，AI伺服器散熱與功率半導體題材發酵＋短中期技術多方結構強攻 - CMoney",
+                    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pSXp6aThvOWtLUERaVWVNVmd4enV3Q2hWNzJicUszMHlkdGwwQzlMUnVuWHRDVjFGVV9EUnF6RjRyRmQzX3BhbnpSZTdBOHNYeUg4a19iRVducHh1dG5adlhDbXhEUWs?oc=5",
+                    "pubDate": "07-06 11:18"
                 }
             ]
         },
         {
-            "code": "6799",
-            "name": "來頡",
-            "close": 111.5,
-            "volume": 1326,
-            "percentage": 9.85,
-            "news": [
-                {
-                    "title": "【11:05 即時新聞】來頡(6799)亮燈漲停至111.5元，WiFi 7＋Fast PWM COT題材發酵、均線多頭結構支撐買盤 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1dlX0x5TDV6aDZfZFRaVzlXZjlQM3pqNXE1a3dkd1BrQ2FoRTNJa01GQUpvTEpMNlNfZUhWV01pZlFHN3Jib1NvYTFUX2F5cV95eG8yYWw1RmxSMDRlTHd1Nkd0Qi1rWjlvcmxYTk5oQW1Dc1JkY0xBVVR0VGc2TkU0NHpVSWJfSlE2cEV3?oc=5",
-                    "pubDate": "07-06 11:11"
-                }
-            ]
-        },
-        {
-            "code": "6957",
-            "name": "裕慶-KY",
-            "close": 212.0,
-            "volume": 433,
-            "percentage": 9.84,
-            "news": []
-        },
-        {
-            "code": "6994",
-            "name": "富威電力",
-            "close": 46.05,
-            "volume": 1624,
-            "percentage": 9.9,
-            "news": []
-        },
-        {
-            "code": "7799",
-            "name": "禾榮科",
-            "close": 430.0,
-            "volume": 1137,
-            "percentage": 9.97,
-            "news": []
-        },
-        {
-            "code": "8131",
-            "name": "福懋科",
-            "close": 82.2,
-            "volume": 22171,
-            "percentage": 9.89,
-            "news": [
-                {
-                    "title": "福懋科(8131) 個股概覽 | 個股 - 股市 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZT3o3bm9zTTUxaFB5aExJZUs3VnN6RG9ISkdPeUJnUzBHNk1IUl82Z0RIMi0yWHk5dTkxeEkzMXhQTnd6UFliZWJ2anY1Y18yVXpZ?oc=5",
-                    "pubDate": "07-05 13:33"
-                }
-            ]
-        },
-        {
-            "code": "8150",
-            "name": "南茂",
-            "close": 115.5,
-            "volume": 51678,
+            "code": "6919",
+            "name": "康霈*",
+            "close": 110.0,
+            "volume": 10933,
             "percentage": 10.0,
             "news": [
                 {
-                    "title": "【09:03 即時新聞】南茂(8150)亮燈漲停115.5元，受金凸塊與矽光子題材推升＋均線多頭與法人成本區下移吸引買盤 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUZ6cm93ZzRzNDZyZ1JQZjd6Ujc2Zjl4Skt4V00ydGxEM1hqNXFRRmhvdVVTWTR0b3JoRlZxdWF0SUtGUGJxTUswbkNYUXRWdmtFYmZaMWRmbF9GelR3RjVaeW9TS0s1dUoyTlY4YXlUOFNfWUVxUFl5YTRHbUpSdml3YWJlZ3ZFb2ZyLVZ3?oc=5",
-                    "pubDate": "07-06 09:03"
+                    "title": "【10:14 即時新聞】康霈*(6919)股價勁揚至107元上漲7%，新藥減脂題材獲買盤承接＋中短期技術走勢待突破百元整理區 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVfUDVFd0VYZkp0X3FzNlp6UUJ4cE82ZVo1UXJLT3VDVHgwMmEzaG9aLWhPZ09EOEU2Wm05LTJUT2NfbnVqeVFpb1B0Si1KVUF2b0tPakF0NFFJbUwtQUpiNzkxeGRjYWJ2QzJUVmkzNkQ0OTUzbG9PN1NqUVNMWnFnOFgwNklIOWJ0X2F3?oc=5",
+                    "pubDate": "07-07 10:14"
                 },
                 {
-                    "title": "焦點股》南茂：矽光子訂單想像空間可期 強攻漲停 - 自由財經",
-                    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBadmswdnZacVlycXcwTU5WQ000WnJQc0t2YkRQVnpkODJwSmx2cU4wRVZpcWxiMkRCYkU5Wk1sY2N2WXBSTERJZ1ZHTFR2NndaV0hwSWpmaUNKUERZLTdB0gFkQVVfeXFMT2JybUdoYWlwdUFzenZrQy1PWWdoWGM4d1o0Unp5MTR2QjhVLThIdFBJRHE0anB6aUhJX3F3REQtTUowLVlhbnEwUmRtUDBORTJ1Zm5FcXVsbEZ2Mm9Bd0JOTS1kcg?oc=5",
-                    "pubDate": "07-06 10:57"
-                },
-                {
-                    "title": "【即時新聞】南茂(8150)爆量鎖漲停！這「6檔概念股」買盤急湧接棒上攻？ - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vZXZOU2RieTRjZVFTU0hOQ29fWUZKRGl2Yndqd2ZTVXJ5N21aM29tVzh3WTZqenBydXNMRjNidmFCcjJjZkplLVNKckpKQ3EzanlqVTY4RWlfcE42OE9Xc0JrRHJOdTQ?oc=5",
-                    "pubDate": "07-06 11:24"
+                    "title": "新藥開發廠康霈送件「申請股票上市」　鎖定市場100億美金無藥病症 - 三立新聞網SETN.com",
+                    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yQnU3UXVXTXBlUnRhOXZTOVVYT3pOTVJEWU9GaXMxYjNrWDlScC02RFRFM1BGYzA5MFg2Ymg2bEJvbTVFaWFFMdIBTEFVX3lxTE5zQVg2VzdnM2lQdmZwdjJqNS1Bemt0cWRCN0RDS3dZX0RseUFrNnhWY1Azbl9EcmoxT1ZidGhhWWlGZXE3THgteHpPdHk?oc=5",
+                    "pubDate": "07-07 10:17"
                 }
             ]
         },
         {
-            "code": "8261",
-            "name": "富鼎",
-            "close": 352.0,
-            "volume": 3270,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "【09:00 即時新聞】富鼎(8261)亮燈漲停至352元，AI伺服器電源管理題材延燒＋均線多頭排列、主力與法人加碼支撐上攻 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlB1anZDdWxQUjJYMnhURUxiYlprQVVROVJCeUFkSGljWkJCY2pWTFM3VFhod0Nob28ydWJ2UW0tU0U4ZEtTZVpGeWxLakVoeVplYWtET3RxRjJucFYwbnZjTG1mQTRtWnA3U1dVRm05M0F3MzZUdi14M3hDWmFaVnVFVkR2SWJySnlHMGNB?oc=5",
-                    "pubDate": "07-06 09:00"
-                },
-                {
-                    "title": "功率半導體大中、富鼎帶頭衝連拉漲停 台灣MOSFET與IGBT 完整供應鏈名單曝光 - 理財周刊",
-                    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5QkdoWXpmZWg2NDF2clZScnpOUGZoSnNTS3ZyeFFRbVhFb0VMSllvNHJRbXRXV3U3N0k1WDV6ZnBJQ2RobFVpeC1EZUJXNE9nbXhDNldYS0JMMTFEUUU3aUgtaVd6SFk4SHdWZVI3RQ?oc=5",
-                    "pubDate": "07-06 13:47"
-                },
-                {
-                    "title": "【2026/06月營收公告】富鼎(8261) 六月營收2.96億元，年增16.09％ - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mT0U5cUJfVTNUNkxHVWF2UDByek02UVlOTmt2MTQzc0Z1OVJkZTVEMXB0ZHJWeVFub2EyV1VXZnUzRzBlb2tTLVdzZ1QxbWhIbDVkQUxJcHdSTXhMUWItYlphSUZYUkk?oc=5",
-                    "pubDate": "07-06 15:10"
-                }
-            ]
+            "code": "7827",
+            "name": "漢康-KY創",
+            "close": 171.5,
+            "volume": 1043,
+            "percentage": 9.94,
+            "news": []
         }
     ]
 }
