@@ -1,155 +1,61 @@
 {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "stocks": [
+        {
+            "code": "1413",
+            "name": "宏洲",
+            "close": 10.3,
+            "volume": 441,
+            "percentage": 9.69,
+            "news": []
+        },
         {
             "code": "1435",
             "name": "中福",
-            "close": 21.1,
-            "volume": 34,
-            "percentage": 9.9,
-            "news": []
-        },
-        {
-            "code": "3652",
-            "name": "精聯",
-            "close": 34.75,
-            "volume": 446,
-            "percentage": 9.97,
-            "news": [
-                {
-                    "title": "【09:00 即時新聞】精聯(3652)亮燈漲停，營收延續成長題材發酵＋法人與主力短空籌碼急補 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcF9pVVBnMVFUdklRaG9HTFJicmF4R2ZIdmhSTXJobllnU09WWXN6TXFSZzJkOUdYQmVrUTdacXFnX2xaM2NHckJmUFlDeWl4WmJxenhtSlBmX3lEVUc5MFJ4bU1SeU5nXy1xR2NvZmtJVEFxWW1nODNvbGtGQm9yTTVVWS1CU2xlaVppUEFB?oc=5",
-                    "pubDate": "07-23 09:00"
-                },
-                {
-                    "title": "封測一片紅！「這千金股」挾訊芯、精材、聯鈞齊攻漲停 日月光、欣銓、頎邦衝逾5% - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMkpxdDJQbTVnMmJpS0w0R0lOZ0dhNzM1b01fR0VrRlpuRE5leGpqX2dubVlUVjZUQkJXRGFLVnVvRWtFbEoyRXZSa0ZHV3M5dHV4V0FwdDdZTWlKMWpsdmlGRmVuQzFnQk9jRFFVOEZpejFNOE8tUUJmZlYwQTFnSVNlNVgtZjQ3dnh2djQ1VzVUTEVsNFBkZy1veGMzZC1rNDlfZTNUSm5CYkFtck9TX1c1MmJOWExnMkd2WUpKTTRYb05jbW42ZENGZkFLSFFzbTBuRlBxZVB4RlBFUXhYV3pWbUZGLWxiOE9HVFBrNEVXTlctU195TkljelM?oc=5",
-                    "pubDate": "07-21 16:46"
-                },
-                {
-                    "title": "台積尾盤神救援台股震盪小漲25點塑化、矽光子有撐- 證券 - 工商時報",
-                    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1abmhJODdkRUxiRUtoSVJVRm5QVEZoQkJacUNUdUhhN1lYRWJlNlhTWmttZ2FkQV9ERXV3d3V5QUNNbW9pOFNDU19JOG1UdEdQSkdnZFBic1ZlbVIwazBF?oc=5",
-                    "pubDate": "07-23 14:05"
-                }
-            ]
-        },
-        {
-            "code": "6166",
-            "name": "凌華",
-            "close": 159.5,
-            "volume": 7006,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "Physical AI與邊緣AI雙引擎爆發 凌華(6166)營收創高 145元至180 元區間操作 - 理財周刊",
-                    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ILWVpQXc2TkR2VlJyd0l5alRCaXBqelJENDBRdlY1T3VMOUN1ZWoxbFU2MEw2S29pamZRcXYwN3VqQ3dYUDN3NTBfRmpnNjgxa3NEeWcxX2FIbjROaWFJ?oc=5",
-                    "pubDate": "07-23 11:37"
-                },
-                {
-                    "title": "【09:41 即時新聞】凌華(6166)亮燈漲停，AI伺服器＋工業電腦題材帶動買盤急攻、主力與法人同步偏多支撐攻高結構 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmR4NUNac0pQbUpkWUM0NlRaU2xOWFJ2UjdTdkZ2bl9hWFB4akNqRWJvTWFXMlFBbnFLZmZvcjNpNlo2RkRBVWFRMi14d1ctazZfcHE4ckVwMGE0aC0ySFMtbS1QZVpJbnBWMUZZX0lrMjhSeVJMRFFDNVNvbDRBZC15endCOEpaUEI5MlB3?oc=5",
-                    "pubDate": "07-23 09:41"
-                },
-                {
-                    "title": "機器人股狂歡！樺漢、凌華等5檔飆上漲停板 71檔概念股走高、「這檔」獨自下挫半根 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOQno1UGN3OGVxNlJwclFsZTNwVm1GNXBxMlVrSEN6UTk1SEJleXpaZmhGeGNrUGtHS0hfc2lUY2xJT1ZMMmx3NGd0c1pCcDVEdXBUMnBkYWdFeFRldjlheHdUV3VuS0VJWXVvR3psQks2aEplWnNRVmh5dktlaWc0NWpFaFNfUXIxMWNxVFFOaFdSb1F4SEY2T1N5SGtGY3QweFZybTFCUWxwNTJVTC1qaXJjRXBXbmhxU1Bvb1dWR0sxTnF4a0tTQk1DSkN0X0xmR1J3aWFMQk1BWEcxY3ozdGt1SGNPSFIyZ0IzUUVwMEdBR2xOMEFROElRMVRRaWlqdGNaZ1NubE84ZGVhNEZNR19VNlBfVzhLLW1wT2kyTDN1Qkx5djRObmhKM1hVdndRZFhLZzJkZWFaVmZXTDVDVjV2N0k2Rm0zVkpob0RDNFpqNVh1MEZRLV9hT0tiQnpUdGVYX1JlT2pDeEhtazQ3QjczeU5rcGFjRTRsMm8zRmY4VlBaLWY3VmlXNEotLUp1?oc=5",
-                    "pubDate": "07-22 11:54"
-                }
-            ]
-        },
-        {
-            "code": "6505",
-            "name": "台塑化",
-            "close": 93.2,
-            "volume": 96013,
-            "percentage": 9.52,
-            "news": [
-                {
-                    "title": "6505 台塑化- 塑化股集體亮燈！市場開始重新看好這個族群？ - 股市爆料同學會 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDSnczeU54RTlRYnVpcnVlSzBMdmlHNlQwNW5xbmF5VGZ1WG9ISGFMNDdkQWRzckFSb1FqUE5BWGVsMWxJTnhqTGNOSGd2TUQtLTUxcHF4cEk?oc=5",
-                    "pubDate": "07-23 13:55"
-                },
-                {
-                    "title": "焦點股》台塑：國際油價大漲 買盤衝鋒 - 自由時報",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yZlU5LXVfQlVXVm5HcTRrQmFWd2RLZV9EUWZydkdOTlFpZEUwcXgxT1BTT0pSNWtYa1RsWnNXeThKZG5QWEc5NHljNm1QU21TLVdQVmRwZEQ?oc=5",
-                    "pubDate": "07-23 10:10"
-                },
-                {
-                    "title": "油價飆升助攻！台塑化漲停 台聚集團四檔填息 - UDN",
-                    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PV1RsV2Y1SWJ0ZF8zRF9reGVYN1lVWWpQeC00VzVxSWFMazZTU0ZKN0RKZm1WNU9vUUkxR0ZhdlpFWmJGT1F6Z1paeWptT29vQkJ6d3Z6dkp1UVp3dzNUaW5wMkdOTWlLSXI0ODVVajNlSF9LQ1VLOVB0OXHSAVZBVV95cUxNaFk5RVJJd0xmQlhGYlBoOGdMMV9KYmdZVHMxTzZBWE42ZC1palBVS3NmOHlzT3k5YU16T0t5dEx3WFd1ZmJDbDRhYldVTXRLbW5qbFBsQQ?oc=5",
-                    "pubDate": "07-23 12:18"
-                }
-            ]
-        },
-        {
-            "code": "6579",
-            "name": "研揚",
-            "close": 183.5,
-            "volume": 2422,
-            "percentage": 9.88,
-            "news": []
-        },
-        {
-            "code": "6715",
-            "name": "嘉基",
-            "close": 425.5,
-            "volume": 1185,
+            "close": 23.2,
+            "volume": 47,
             "percentage": 9.95,
-            "news": [
-                {
-                    "title": "洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤 - Yahoo新聞",
-                    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQWl9NR0tJU0szLW9VNENzSUQwOUFsdlRTc1F5ejJTc25xRHc0Nkx4SXpYSUdmMXpvOWJKWW9tYlk0eGM1NlQteEp0UEVjSEMzYjlFRERzRWRWSGRZMm1ON1JzX2NrT042WGU2OWt0elBjTDZXRGt0OVV3bzhpTGtNSF96eUVZRjl5LVppWTFId0QtTFZ6aERrdmRZeVlNdWFDcldoRTBSeGplUVRxU3hSaGVHTkJibDBWYmRWUS1jY0NoSmdSdUEyZ3hmTjdWMGtqa0lJcmYtTzY0Vm41bGN1YmVRVlVHNEc3bzJBc3BzMlJrRFRRQzZJQU5MdUpkMVdua3BNM0FCdFluZzNCLWFkWDFPbm8wWkxMcDUwSS1kSk5TR1o3VlVIU0h0Q3NqZ0Y0ZVdaXzl5Wlg?oc=5",
-                    "pubDate": "07-22 01:11"
-                }
-            ]
+            "news": []
+        },
+        {
+            "code": "2923",
+            "name": "鼎固-KY",
+            "close": 33.2,
+            "volume": 235,
+            "percentage": 9.93,
+            "news": []
+        },
+        {
+            "code": "3018",
+            "name": "隆銘綠能",
+            "close": 13.0,
+            "volume": 94,
+            "percentage": 9.7,
+            "news": []
+        },
+        {
+            "code": "3669",
+            "name": "圓展",
+            "close": 40.7,
+            "volume": 2735,
+            "percentage": 10.0,
+            "news": []
+        },
+        {
+            "code": "6243",
+            "name": "迅杰",
+            "close": 52.2,
+            "volume": 6751,
+            "percentage": 9.89,
+            "news": []
         },
         {
             "code": "6969",
             "name": "成信實業*-創",
-            "close": 35.05,
-            "volume": 710,
-            "percentage": 9.87,
-            "news": [
-                {
-                    "title": "成信看太陽能板回收整廠輸出方案是下個成長動能 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQbmoxdGtuMFhidUExcGk0bjBBUW1XRUpIOC04anc4dVNzNEx0VXIyZmtzeWI4U1dac3ZieFNEeFp4YnlUSmp4LTFBRUpZTkxZUDJ5T0J0NW81OGliY3c4VEoxNXNPcUl3WG1HX0hpeGJ5RlQ1S0c3aTdmR2daSFdpbUE2ZkU3U2paSVlqZWdlOVppYlpwTFBFMW8taDl2ZTg0c1poc0VRQ1lqR2cxMFNLNmlyYk4xUmtUREM2ckNTRkJYVERWTXNVek1KdW1RZ0pWU0stZTNKOHhLeGVTOVA1a25JRkRMdUZKaVZGaWJQMHNyWnVSU3dWUlJMc3NQTll0SEhYWER5aWVacnFRc21oeEQ5OGNEQTAwWWd0YV83S1NSVkQ3OHJUUjhHaGRCRHROWWpZUGxqaHNXT1E2MGdNWWpCX3p4X0tkOEN6MjVDYlQ2dHN2akFMa2x1TlA0bWJ0SFRN?oc=5",
-                    "pubDate": "07-22 12:17"
-                },
-                {
-                    "title": "成信發展檢測貿易業務，進展若順利可望Q3有結果 - 台股 - 新聞 - MoneyDJ",
-                    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFVWYkZFVnhoMjZiRkZTeEpmZnNvaGhOOFVRLVRjZ1VtVW5VT002bXJpYzFLdmxwR2lFUE13S214cjdNdlY4ZzFNbGhkbXpPM3hQZmd0LWl1N3dZYVNsZmVIOFJFUXBGelpPNlZxZDhYYXJsVnBGUjNaNm5WTWExQ3MxbTItTnNPcUExVWNfdVBoU1JQX2o2Tm5HNA?oc=5",
-                    "pubDate": "07-23 12:14"
-                },
-                {
-                    "title": "【09:10 即時新聞】成信實業*-創(6969)亮燈漲停，綠能環保族群題材延燒＋均線多頭排列、官股與外資同步加持 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3E5N2VwYzhqd2FCSzVMa3ZjRHlLY0ZrOXRjdlJDT2RNTGRaT2FDTllFRko5UlhJR0dYZVp3MnRwZk9oQlQ0Q05FQklnTXYzY0g2bVhGRDJOU0dQYnFibVNpdUpiSVBPNktvQlltQzFBOWJ4UzdOOUNtblFhZ1BfRnBvRDV1R1JpdjNlYjl3?oc=5",
-                    "pubDate": "07-22 09:12"
-                }
-            ]
-        },
-        {
-            "code": "8039",
-            "name": "台虹",
-            "close": 256.0,
-            "volume": 47776,
-            "percentage": 9.87,
-            "news": [
-                {
-                    "title": "【10:08 即時新聞】臺虹(8039)亮燈漲停至256元，PTFE高階材料題材延燒＋多方籌碼、技術結構同步強攻 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckNJNjFreG5FWkl2b1ptYkotT0FKY0VoWGo3ME9kYzFWcndyNEVMX2tGaTJxU3d2U3RjNHpLbjR0VXdaZ1duUXc0ZVhrS3ZrU3lyeVIyakhJNVdCNUtzb0s2eWNrQXcwWHlJNy1yT1U3dWtlNnkzYkZWQzA3dGlxS0ZfcHcyeHo1eGQwWUF3?oc=5",
-                    "pubDate": "07-23 10:08"
-                },
-                {
-                    "title": "高階材料出貨大增！台虹5月獲利年增814％ - 自由時報",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZUG16U3lyUXVkbWx6YTR4VUNQNmI3TVdWMGhidXUzZ2Z6MFZqNE9VU1RpR2xraVJoMFpYNVJ1NEZybnJhLTFSVDZiOUhxNUgtanZBU3NrWHM?oc=5",
-                    "pubDate": "07-23 01:39"
-                },
-                {
-                    "title": "PTFE概念股解析：台虹、亞電為何成AI伺服器材料新寵？ - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3UTRZdDZJaDY4WmlsMnVqQnFmRnRrWE4wZHFRV1FMM1c0YTZzMTF6WjV4WGVacHRUVWl4alAyYTRud24tRUZ1MFFnWVdnU2w1ckJPTlJJM0ZKWW9FVDNZRTM2d09jenBVbEtNSWpseTBFMmJuSWE1V1ozOC1Ndw?oc=5",
-                    "pubDate": "07-22 11:45"
-                }
-            ]
+            "close": 38.55,
+            "volume": 1417,
+            "percentage": 9.99,
+            "news": []
         }
     ]
 }
