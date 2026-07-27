@@ -1,61 +1,90 @@
 {
-    "date": "2026-07-24",
+    "date": "2026-07-27",
     "stocks": [
-        {
-            "code": "1413",
-            "name": "宏洲",
-            "close": 10.3,
-            "volume": 441,
-            "percentage": 9.69,
-            "news": []
-        },
         {
             "code": "1435",
             "name": "中福",
-            "close": 23.2,
-            "volume": 47,
+            "close": 25.5,
+            "volume": 20,
+            "percentage": 9.91,
+            "news": []
+        },
+        {
+            "code": "1526",
+            "name": "日馳",
+            "close": 17.7,
+            "volume": 1210,
+            "percentage": 9.94,
+            "news": [
+                {
+                    "title": "【09:10 即時新聞】日馳(1526)亮燈漲停17.7元，注意股題材激發短線買盤＋近期主力、外資籌碼偏空下的技術反彈壓力 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3VZU0dBbllsQXZ0MG91d2JUS25DYnRGc1NqWE9GaHV1dWFwdThmZFdYRmVtZUZhZDRfVXJvejRfanBiQURCM3dXRkt1eWcyS1lnTGwxVlZLblcteVJoYV9Ubk1fOEJtdV95a2NHXzlZbk8xT3NUQ2VEODd3RDJ4RzJTeEF1OXlwcXp1YWd3?oc=5",
+                    "pubDate": "07-27 09:10"
+                },
+                {
+                    "title": "日馳(1526) - 富聯網",
+                    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlM4U2gyelRyazVxdlV2anA1VWtMUENzZkNqdVkzS01zcmczWndJc3hYOVBMUXcxck1qYjE2bk1ic1FFaVJSN205eTN0ZHJfZW5HY053QnljZTdEdURBRF9wVHhOazRRRG9XVi1BT2VURjR4X2Q4Zk1ES2k5MTRFX2o3VHJJZw?oc=5",
+                    "pubDate": "07-27 14:08"
+                }
+            ]
+        },
+        {
+            "code": "2332",
+            "name": "友訊",
+            "close": 24.3,
+            "volume": 74548,
             "percentage": 9.95,
             "news": []
         },
         {
-            "code": "2923",
-            "name": "鼎固-KY",
-            "close": 33.2,
-            "volume": 235,
-            "percentage": 9.93,
+            "code": "2910",
+            "name": "統領",
+            "close": 25.9,
+            "volume": 74,
+            "percentage": 9.98,
             "news": []
+        },
+        {
+            "code": "2939",
+            "name": "永邑-KY",
+            "close": 20.2,
+            "volume": 186,
+            "percentage": 9.78,
+            "news": [
+                {
+                    "title": "AI餘震再挫台股！「這檔」搭機器人、低軌衛星雙題材猛飆漲停 隆銘綠能出關首日也發威 - FTNN 新聞網",
+                    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NNl9CMlhvU0xhRm51ZlRQUG5QUDIyUVRObU9rZGFESkFOU2pDZGlZY1RGN3dmTGNyeTMzTU9DNURwelBCMVpiTDBicw?oc=5",
+                    "pubDate": "07-27 16:30"
+                }
+            ]
         },
         {
             "code": "3018",
             "name": "隆銘綠能",
-            "close": 13.0,
-            "volume": 94,
-            "percentage": 9.7,
-            "news": []
-        },
-        {
-            "code": "3669",
-            "name": "圓展",
-            "close": 40.7,
-            "volume": 2735,
+            "close": 14.3,
+            "volume": 77,
             "percentage": 10.0,
-            "news": []
+            "news": [
+                {
+                    "title": "AI餘震再挫台股！「這檔」搭機器人、低軌衛星雙題材猛飆漲停 隆銘綠能出關首日也發威 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPMWZPdXlRNDhZSjZrZGJ4NE9jOUprc3dOVVN6cFNfa1pYYUEtY1pscmRSRXB6V0Izdm9ONTlFQ1IyZXFzVFA0T0hiZm1zY3UyM2tVLWs3Q3V3OXpodkMxcEgzYkF6UmwwSVhRSnRJb1BpeEpvNUlBaFdtcnRoRkplbG9FamNJZm11VFF1dHJ0akxrQ05MdXp6azEwTHFRdi1pV19zSF9ZYk9iNUhFVF9uSl9WR181ajZfRnU1NHY2N1A5SVJSZ3FIRnBLVC1jV3hPQkszaV9yMm5neEZ5NVpGWWlidzVBdnQ0cVRoVHAtN3Fkd3EzcVk5SmJ3d0dzQm03cFF6QW5PTHQwSWh2QldiWkZVVC11c2N4b3JBNTVBY1Znelh6TUt0NGpZeE9zeE5qbEREOEJKTlE3S0V1dklITXZvNUMxVnFwcm9nYlVnTnNBRlRHSzZTeDdTUkJVQ1RZMFhJWTFIQUtUUUN0ZDRHc1ZaZ0RrVW5LbWM3QUYwTHRZSDFjRUZoWXltSFRZSnltWk9ZRHNqM3Z6QUlKak5hWnF1dzdOcGd5ZGtvT0JiU3RfQi1NNDVocmZQZ0tKcEdmdEk0aFpvQ0l4RG9mN2RQSThTcHRqanZ1MmtTTm5VSGdhSFl1ZmhSenNPb1dDMUVJRTcwN3BFMjNzb2c?oc=5",
+                    "pubDate": "07-27 16:30"
+                }
+            ]
         },
         {
-            "code": "6243",
-            "name": "迅杰",
-            "close": 52.2,
-            "volume": 6751,
+            "code": "4976",
+            "name": "佳凌",
+            "close": 33.9,
+            "volume": 2790,
             "percentage": 9.89,
-            "news": []
-        },
-        {
-            "code": "6969",
-            "name": "成信實業*-創",
-            "close": 38.55,
-            "volume": 1417,
-            "percentage": 9.99,
-            "news": []
+            "news": [
+                {
+                    "title": "【09:17 即時新聞】佳凌(4976)股價急漲近一成站上33.8元，新董事會與無人機題材發酵＋短線跌深反彈技術面轉強留意量價變化 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFozV0lxeG5XX0pQZ0FTXzZQZW91TEVVQm9tN21Oc2VtQ1lpNTdrWHpLYWxNellacXdoWU9RdUs5WnVKelcyZ2dRMWVuY29Mc3pzOW5PWGE1dnFYaFYyaXRPSWFZWVBOMXlWWFVYNHRSc3BjSmtXci1oaXVrR0ZRTHlCRHJrWkRqc1VSRW9n?oc=5",
+                    "pubDate": "07-27 09:17"
+                }
+            ]
         }
     ]
 }
