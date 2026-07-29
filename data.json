@@ -1,36 +1,122 @@
 {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "stocks": [
+        {
+            "code": "1526",
+            "name": "日馳",
+            "close": 18.9,
+            "volume": 3340,
+            "percentage": 9.88,
+            "news": [
+                {
+                    "title": "【09:19 即時新聞】日馳(1526)股價走強漲至18.3元，注意股題材吸引短線買盤＋法人與主力籌碼分歧成盤面焦點 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXB0Q2l6N2NpWTd5Z1czejBEcUduR2lfLTJRNmtvRzVsdHVPNWt6M09ZazdRcnZsUWk0WGpxTDdpVm00U3VzWEIwemxmYnd0OVlTalJ4OEVHakpCZ0I2dWlscTBkVDROOG9Ec29kSG5MQ1JVOGZLOTR2aGU3T0Zjdmdwd0N0UFhrN3BjVGxB?oc=5",
+                    "pubDate": "07-29 09:19"
+                },
+                {
+                    "title": "1526 日馳- 底部反轉及精密齒輪轉型契機- 股市爆料同學會 - CMoney",
+                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXV05KUG5BVEhNQzRrcGFvRHNyRVM4SlZzNFpOT2ZGZU9TSmY2U3lJWVg5S3IwTlducGhCRUhpcjRxR25tNkt3dWM0VkE1NGUyYkt1RUt1LUI?oc=5",
+                    "pubDate": "07-28 17:00"
+                },
+                {
+                    "title": "【09:09 即時新聞】日馳(1526)股價上漲近9%，注意股題材發酵＋短中期技術面多頭結構增溫 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE8wdk00SGxpNk96N3lsSXI3VFdJWWJxSk52RU5qdi1DdGxWRU5DZ0cyNkc4SkVudFFuOVlnY0J3S2ZrSlNSM1JGcm91LXJrX05PMzFHRXY1OGh4UHN6a2t5SUlxRUtFakgtR28yTmxrRUVzcGR0eGxDUUdLZXY3aG56RV9TQXBhaXl4OHBR?oc=5",
+                    "pubDate": "07-28 09:09"
+                }
+            ]
+        },
         {
             "code": "3018",
             "name": "隆銘綠能",
-            "close": 15.7,
-            "volume": 186,
-            "percentage": 9.79,
+            "close": 17.25,
+            "volume": 417,
+            "percentage": 9.87,
             "news": [
                 {
-                    "title": "AI餘震再挫台股！「這檔」搭機器人、低軌衛星雙題材猛飆漲停 隆銘綠能出關首日也發威 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPMWZPdXlRNDhZSjZrZGJ4NE9jOUprc3dOVVN6cFNfa1pYYUEtY1pscmRSRXB6V0Izdm9ONTlFQ1IyZXFzVFA0T0hiZm1zY3UyM2tVLWs3Q3V3OXpodkMxcEgzYkF6UmwwSVhRSnRJb1BpeEpvNUlBaFdtcnRoRkplbG9FamNJZm11VFF1dHJ0akxrQ05MdXp6azEwTHFRdi1pV19zSF9ZYk9iNUhFVF9uSl9WR181ajZfRnU1NHY2N1A5SVJSZ3FIRnBLVC1jV3hPQkszaV9yMm5neEZ5NVpGWWlidzVBdnQ0cVRoVHAtN3Fkd3EzcVk5SmJ3d0dzQm03cFF6QW5PTHQwSWh2QldiWkZVVC11c2N4b3JBNTVBY1Znelh6TUt0NGpZeE9zeE5qbEREOEJKTlE3S0V1dklITXZvNUMxVnFwcm9nYlVnTnNBRlRHSzZTeDdTUkJVQ1RZMFhJWTFIQUtUUUN0ZDRHc1ZaZ0RrVW5LbWM3QUYwTHRZSDFjRUZoWXltSFRZSnltWk9ZRHNqM3Z6QUlKak5hWnF1dzdOcGd5ZGtvT0JiU3RfQi1NNDVocmZQZ0tKcEdmdEk0aFpvQ0l4RG9mN2RQSThTcHRqanZ1MmtTTm5VSGdhSFl1ZmhSenNPb1dDMUVJRTcwN3BFMjNzb2c?oc=5",
-                    "pubDate": "07-27 16:30"
+                    "title": "隆銘綠能飆第3根漲停！電傳金開殺「達航科技、博晟生醫逆勢亮燈」 尚茂、聯一光、天瀚攻頂鎖不住 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNSGtwT3dnWWNDbWZRTTFGcDVzb0lTOTlRbGRRUmd4QktyZ3BMbkd2TUNBUFpROWRBTmE1NlVFRFZyUUZEeVZqM0pyMlIxSHFEMU55SlBYYU5GUHlxWG1OV0I4NkVVczdfeHRMVkhyU19ObmJmc25QNXlBcHdQWFktR3lFUzhWbW1HcmRKbnFZVXBhSGdZRUppR3Y3RVBOd0J1OWtCZk5GNDFFRXU4VUljNUdFMFo5RnpxOUJraDBwUXFKT3cwS2w4b3NYTzAyZUpVamRXSE5QNmkxR2dFX1pyVEJNX21IM1huRURtTTRTYmVnOVlqLXMydzgzZVh0bkYyUHk1Tm1pQzFqakFkdnh1NjBIRXVjS19DbWszV3c1VzNnT3ByNDdCZ1VGajE5TjdsVDZPWllyb245eDhvWG43anU3aEdJWXhEbDAzLXFIdVZuRTJqZndydHpSYmdaekdTUmhUeGhLZEl0RDFtbFhEWXM5bjVFeGNfTENGSlkzcS1SUE9qQi1nQ0tRMGFQckE5c3ZvM29nRzVkT2owRTFDb3FhS1lHOVdSQXgzcFAwTXJ2QQ?oc=5",
+                    "pubDate": "07-28 09:58"
+                }
+            ]
+        },
+        {
+            "code": "3504",
+            "name": "揚明光",
+            "close": 68.6,
+            "volume": 6588,
+            "percentage": 9.94,
+            "news": [
+                {
+                    "title": "〈財經週報-台股熱點〉蘋果供應鏈吹反攻號角 大立光重返2800元關卡 - 自由時報",
+                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03a25pTHVWTXVjQXlhZmJDWUZxOVNOa1h4SURZb3JycVg4NTZIaTBkOTZvaHlOVER6anpaUmV2b3FLckhNWldvSXJWVEVEel9OcTEtUE1MYVI?oc=5",
+                    "pubDate": "07-27 21:09"
+                }
+            ]
+        },
+        {
+            "code": "4976",
+            "name": "佳凌",
+            "close": 37.7,
+            "volume": 13072,
+            "percentage": 9.91,
+            "news": [
+                {
+                    "title": "焦點股》佳凌：無人機題材點火 股價鎖上漲停 - 自由時報",
+                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FX3NBMENNeE84U25Dd3NRb0ZEY1hNMUxfTkxJQTJNamtORjlCNUxKX19ET2ZxN1JCOFBtV2VLUVhTS2txR3M5SEdMVlA2WTJ4aV9iWnFGRjY?oc=5",
+                    "pubDate": "07-29 12:15"
+                },
+                {
+                    "title": "【09:18 即時新聞】佳凌(4976)股價走強漲逾5%，光學族群買盤延續＋短線技術面多頭格局明確 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0FqNk10U1hvMFdIcGFhTkpkbWw5NXNqdm9iaGNQY0J3eHIzNU4xNi15ajJkVWF2SEZOT3haUU5FSDJ0V0dFOXl1cVVEbFM1dWtUUTBvNVNaRDNBLWVWUERTTUdKVk9LUW5LMlFrN0s3ajFCMzYwclBEbjRNRmEzTkRuNkd3di04Zl84bGVB?oc=5",
+                    "pubDate": "07-28 09:20"
+                },
+                {
+                    "title": "【09:29 即時新聞】佳凌(4976)亮燈漲停，光學鏡頭題材獲資金點火＋月營收創22月新高帶動技術面轉強 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWV2bGZNU01aVkJLbWRJWkFsdmdiZHJvelR2bDlzS0dqM1VKUUlsM096eC0ta1lTaHpLSFBoVzhTRUd0d3JQM29BMUJmbko2andRMG9rcHcyUHpxNmVkSmNjdjN2VnNBZWRTM1JMd09UUjVMcXFQQ250eHN1QlM5OXBxM21BbzBFRzh6dTJR?oc=5",
+                    "pubDate": "07-29 09:29"
                 }
             ]
         },
         {
             "code": "6226",
             "name": "光鼎",
-            "close": 20.5,
-            "volume": 23361,
-            "percentage": 9.92,
+            "close": 22.55,
+            "volume": 16023,
+            "percentage": 10.0,
             "news": [
                 {
-                    "title": "光鼎強攻功率半導體 - UDN",
-                    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fSkkzc2pJX0VRVDU2ajJ5QkZtdkVSNmY3Vy1rY1BtVUJneE5sQlBxYjlpR21FSENYQnpZV2UwWkc2TXVsLTRHdFhUNmhFblhQ0gFWQVVfeXFMT0xQM1I1YURFQko5eHpWSXdCaGJtR2MwWGt5YlhBRUFTTUhnRVNlLS10YVVzYllhNmVYMlVtWk1oODFSLWJVOUs3OHkzSkJ5OTlPTFhMaWc?oc=5",
-                    "pubDate": "07-27 23:34"
+                    "title": "【09:00 即時新聞】光鼎(6226)股價急攻，上漲8.78%至22.3元，功率半導體轉型題材延燒＋短線多方技術與籌碼同步偏多 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFZiV25fUU13a1hZNU90VlhSS0E3bloxdDh0TUpkVUxTV0lXeU96Mkx2Q0VpU1FRbk04S1psWkl6VzR4RUNVUkZLRDdmaml0N3pmRFpIZ19TUjk4WllvYWRfbVVBTG4zakFaRzlNS0lCUndLNkRzV0JBbFdkODI5dXg5WnNfY0JaZ2ZQMzJ3?oc=5",
+                    "pubDate": "07-29 09:02"
                 },
                 {
                     "title": "【09:26 即時新聞】光鼎(6226)股價上漲逾6%，SiC功率半導體題材吸引買盤迴流＋前波急跌後技術性反彈帶動短線回補 - CMoney投資網誌",
                     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWJBdEprYUdLTzJMNVczVUktQW5PYlhJQ0V2WXlQcDZyb1ZiaHVzZmRFVHZtM0dpRTFkS2lrc3FmbG53ckdSb1pNMGdGWWZmSjB0NWIzc1dKRVBVeTJMRmJwRlFuRzdsVF8yZW1TUDRtVHNQYlg3LVViQUFNeWJieU40QjVIcXd1M2tqTkZn?oc=5",
                     "pubDate": "07-28 09:27"
+                }
+            ]
+        },
+        {
+            "code": "6668",
+            "name": "中揚光",
+            "close": 37.15,
+            "volume": 3025,
+            "percentage": 9.91,
+            "news": [
+                {
+                    "title": "今日漲停股｜盤中大跌逾兩千點，先進光、光鼎、揚明光等光學族群逆勢亮燈0729｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+                    "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQQ0J6OW42N3JaTUpyMTZ0QTkxdFdwRE5zeGM0MlBkNy1ZM0p4WDZsVnRZS2l4RmYzVUw5NXR4UjRsT3hBZjRLbmYyVXJyUkZzeHkweFhoM18xVHJyWjVkNG1oVVI2bi1iRFpnX2tXaURjMzF6QlJkS1JvYzhidXF2SVhfRE43WG1BTmhyVlA2OXRQRG55QjUzSFpfQjNRaHc2QjdzMHhLWmF3dHF2RzVBQWY4YVMwTGtZSzlQajl3ZmZJMGFGQlJtMDZ3aDkyVEtkZTRiNjc4SU0yX3RFSUhmSXNYSzVHaWZlZnBLQzZ4QU1zbllEVXR3bmtIMGhlZzkxTUROd3JkeGFBU2VycU1xLTNiRk9OY1o4ZUREWUVrLWxMa1BSM0pCMEtmRUdWaWdkX1EwTkx2bFhEQTNIeWNQbzRKUzRPS1BobGpaUzliRDF5Y0ViOU12R1M0bmdjUDl0aHlFcFFSTEhET2Z3SVNlN1dXZXhXdnEyN0FVY3p3SnhZLWdlWTNoSlQ2R2FMOW5xeXl5dF9ycDlxc1pKandENGcwaC1Ibkw4NTFNMGVOWHgweHNyUWlaN00yamJUQ3ZxVGlQeTV3bVdIcFU0YzVrT2tMcDY3cHRyWHlLbUNLU2haR1V3ekxoT1d0SHg4eFkx?oc=5",
+                    "pubDate": "07-29 14:52"
+                },
+                {
+                    "title": "【09:40 即時新聞】中揚光(6668)股價上漲逾3%，鴻家軍與車用光學題材帶動買盤迴流＋短均線跌深反彈、主力賣壓略減 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWJoMnZPNENHN2JrTkp4WHVMb0k2RnVWVUw1UlpwMEJFaWJXSWV0S3MwTC1MUUZYczZOQVpRcGdZb2hVd3JfbEtMX2JuZUM0N1ZJYlJockJkR2lmMHBobHducFRZUTRDdGpVcXk2azFaeTFFenZrVy1nR1U5ZW9kbjhwSlhvd2dWRzRlUGd3?oc=5",
+                    "pubDate": "07-28 09:40"
+                },
+                {
+                    "title": "【09:32 即時新聞】中揚光(6668)股價大漲逼近漲停，鴻家軍光學鏡頭題材帶動買盤迴流＋短線有望扭轉均線壓力 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0w3QUx2bUZzb0tXV1hhS3ZLd1B4cUtuMGJiWmZTNjVJNGFzT3B0a1lxSzRGOEo2MkMxMS1YZlRWYnozRVdORU9UUTFZNC1SdnNfQWFzam5TUXFTZDBiRVhxb3E1bVdTbTF0Mmg0aURRTHVMeTFCMmc1US1BOG1MWGpGb2t6NVBLNVRzMXhB?oc=5",
+                    "pubDate": "07-29 09:33"
                 }
             ]
         }
