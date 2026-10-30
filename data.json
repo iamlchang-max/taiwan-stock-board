@@ -1,17 +1,41 @@
 {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "stocks": [
+        {
+            "code": "1201",
+            "name": "味全",
+            "close": 13.55,
+            "volume": 5813,
+            "percentage": 9.72,
+            "news": [
+                {
+                    "title": "味全龍感謝祭天母棒球場震撼登場 11月22日封王大遊行 - Yahoo運動",
+                    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNbHdaREJ5YkxpOWc0NDFGeG40ZkxheVlvZFF6UmZNWG5sakxDdU5Ra3ZoSDFkVXNTUUdsdjNLY1Q2ZnhsUEgwb0xNZmpiSXFnQ0pYR0d3QlVrRFpnMXJTU1NFdWthSUxEbEhVbFdLXzVKRUpleTRfTldzNGp5RXhQZFN5TzJSWDBmTkFKV3gySHJxZDE1T09sZjRjX1l5TE1WRU9HOTJBaGtSRXgwUmJDUjE3TGNCdzZNZTVWNjZpVXZBSFdBZ1pWeEF2OXpmSTc3d1ZaVUszUDdNTWJiZFgwWnBOWkljSE92SGFXYVpfa2VKNmk3UU9nZ3hBV1hHTjlVQ05tOERxZ1B1bngzYVBnQUdIeVZ2enFTZUZkdm11UC0tb0hGRXQ2VW9WOTFuSVVjVFY4dW5nbTh4d2k1SVNkNUxyTTlOS3p6c3Y3ZHJfUmU5WENBNG5CaDhTVEUtb01uWl8ySDVZVVJPM28?oc=5",
+                    "pubDate": "10-30 12:41"
+                },
+                {
+                    "title": "味全龍奪冠沒鬆懈 張政禹、蔣少宏等6人赴日加入軟銀秋訓 - Yahoo運動",
+                    "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQUXJsTlE2WkNVNF8wNU5PSktjTElxNjhHRUNzektQS0ROUWdORTRGQXVUMF9sY3JudC1GbmdmSS1rS3B5T2E5Vjh5UElFNEE1ZXNqUHhiSlFCZ2NwTmhmbi1RcUpxSkY4VnlKanZRMzUtNFREVDNvdUdHZE13TjR1MnZfYm9qQm0zaXkwVXFvM2VNaG9UOUFueTc3cjJTQXBaTl9kTXF1b05XR0VyY0l5UGV0R1kzdmxyUzkxdXRFa19faDZ6NzUtQVZCa1FxYjVfWXVjT1B3VHUzR0tXU2N5cFVEMkhRY1p3Q2RmdW11S243U2h2Rm1BTG5acjlhYVV6UDRKQTZNVXdTTUtDeWJVTThfZWN2Zmd1RE56NC1jUUx1clR5NkpXNUNfOEtuOUotaHNZQlIyeWFUSkVsZnNCZXVEUVBoVVJsSHhrYVBfVlZuclM4ei0wUFNiVUJfTk5ZN1VJYXQyRno5LTNIa1I0Q1dYT1k5UmlfUFkxMTVwZk0?oc=5",
+                    "pubDate": "10-29 21:59"
+                },
+                {
+                    "title": "味全龍6球員赴日參與軟銀鷹秋訓 (圖) - Yahoo運動",
+                    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQ2NYbzBSbVNZcE8zWmpOejhIdEh1dzZ1eXU0Y0xsVF84WE9WaVJKR211RkxzanVyTmMyd2hLazdBQ0haXzV6OEpZYUZURUVrRE0wdFpaakpLaEhwY1ZTSVhJRlFlS2xNUDQ0d0JGZ19wdHV1V3N5LWhCRWJVeXpMOHRocmkwSFYxSkdaVmlnLTNyS1NweGVsQkdsVmw2Wk55MFVYUnl4bndJVk9STDJyTVU0TTVOeW1Lckw5RUl0LTN3TWIzc0VGM05VRWo1UFdSeFVuM0pQY3k0azdUT2NLMGVkVlBtTmF6cjNkb09XV29OTlJoaHVuLWMtYklTTXFmQm9HQ29VcExERVU5aHpRT0g5WQ?oc=5",
+                    "pubDate": "10-30 15:12"
+                }
+            ]
+        },
         {
             "code": "1786",
             "name": "科妍",
-            "close": 43.25,
-            "volume": 226,
-            "percentage": 9.91,
+            "close": 47.55,
+            "volume": 466,
+            "percentage": 9.94,
             "news": [
                 {
-                    "title": "1786 科妍- 〈焦點股〉科妍玻尿酸產品於中國取證股價亮燈飆漲停- 股市爆料同學會 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15S0VLWElUaVlvZHNLV2g4SDNxQklTUnhRSE8ydVJfQUtxY29FU0RJNE9JZ0pZcTBZUkl6eWNUMVpKbTFEZjA2Q0ZvTEduY1NJNDQxdmZrdnQ?oc=5",
-                    "pubDate": "10-29 10:59"
+                    "title": "科妍含藥玻尿酸加速銷陸規劃，明年營運拚反轉 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeVFQWWY5QlUxS2R6T1BCcl9zdFdvWXJKeVZ2bGpKcnNpcVJRZU96am1hSE5Za3hhU3Y0M0huVHpPMUlWamdLSFh4TUg2ZkF6Y1I2Xy1zVmpVa2s5V0xlbnpicFRLVUZ2RzUzQkQwODI0RGhEaTBmd1l3SzVrbEl1TG01X0Vyanp0ek9wSEJGWERnMVlTakNRdjUzVnVadTRxcU44X19tbnVTVlROandqR1BOSGdjbWRndE5jLXlWRndhY1VTeHpGWWFMZ0hHX2Y4Zl9qbUVYZmFvaVk0UUV6cFBuSHVkaGxLZ2lsdGt4M0FvZWkzRUYwWnlIQ2Y1TW9qMHdzcGZvLVpUbGVYbEZ0NHFHNWtjbFZSZDNCcVhhWTJIUFdnSEx3OEhSZVRPNDE0dDVXNHNWVlM0VnVKY3lXSmI1TWE0dHFFUUtCcA?oc=5",
+                    "pubDate": "10-29 11:58"
                 },
                 {
                     "title": "焦點股》科妍：玻尿酸獲中國認證 搶千億商機 - 自由時報",
@@ -26,97 +50,35 @@
             ]
         },
         {
-            "code": "2352",
-            "name": "佳世達",
-            "close": 32.8,
-            "volume": 87290,
-            "percentage": 9.88,
+            "code": "2466",
+            "name": "冠西電",
+            "close": 354.0,
+            "volume": 1152,
+            "percentage": 9.94,
             "news": [
                 {
-                    "title": "無人機接單傳捷報！佳世達爆量8萬張衝漲停 分析師：轉強第一天 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQc19WVThFWWRVYUluNkVlQTVtLUk4SldWenNMdUR3dERoclpyTkRORHJxZ2tGWmthbXNGbW1rMHM1anNUU29wV1JaMmZFM0ZLb281SDRkeTEwdko0eWhaZlRxMkFSQWo2b0FUUk5TRWdndmpmX0NvY0x4TGE4MzJ4V2xvUnMwVTh3WmdWdVpGY2lJaHNpWHAxTDYwWmZkbHdmNVBoMnVfa25URmVzMkNFRlU5UXVIYXRRQXYwYm9LcmJGR0RtdkE5LVpYSE1aeU5LRS1vWE16eGtYcnk1eVNPazlHQWJfTXNKcFM2emlnczFvdUdqWnoyRFBpU1RPOFV5Z3J1SEtTY1prSThfR0ItQ09VdjItNVJObHhkbmplYzM5QmdPOTk5aV9TS1hUYUZVZFdaQTJGakthZm9FaWljbmFTUjdVOVFZa1NaZWVOaWNEX1Bld2dpYkJRU2NRci1CTmdxRXh5djk3bXJwZFliRVRZYTh1dS1XZFFfbWZJNUlwREJ0SlpWWktUWGhINHRDWE55eHFiVEZYUlgtX3lYWUtQU1JSdDNlRk5YT0N3?oc=5",
-                    "pubDate": "10-29 13:39"
+                    "title": "【台股10月風雲榜】「世紀妖股」冠西電翻倍漲1.8倍稱王！千金股玉晶光、紡織股王儒鴻也入榜 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxNVnl1Yi1VUjBqbmFzQUl1d0lYWVdxYmRQb29rdTVFZ3hvX1hycXZlTjB6VWNvREhUdS1lQl8wZVFNMjZTQ3huT1lDZTI0S19YYUFpMW9fSk90OUwtYlVVWjlfYVJ5dTlNWEJWcllqalotR2tVM0dTck15bTJxT3hrV0t4ODNWQnJid3k0cTJUbnZWZkxoZUxfU2hXQlo3SW5CYXpOZ3I3elVfNUs3UUIzMkFzanV0MTVadGdtTHUyNGR5YTc3UjB0UjVkczBnM2xpRDVvcE9lU0dONnE1M05rMHpFcXBySmJpd3hKUXF3SGRNR090cW1pRk9CempfYjlyME9rTXFzMXBjRlFjSFQ3ZkJ1RWhiczBFNlRud1ZnTTVHR2RJSENBd2pJUFB4UkVIa0pnMVQzQkpLMGpoRG1sV0ZRUWJFRElnTG9HOWdpdWMzbkNneldpT2JKb3Nid0dJNEVOTHo1eEs2RUZUZ0Z4aDl5eTY4T0xWdjZWWkhtSWhEMnJNMWFrSnNETmtJZ09EVW9BTGoyTktTVTVxZS1fLVVTZ1FFN3hTZEhIZlNpOWplWUZuaGx1M1Z0SUsyaDY4eXFNY2syQm9MU2o4VTJHaGNoX3BwVzVCVXFkUGtSMms0TFM0T29Za21XU0JKYXBFSWxfdHNTUjBlcHlrQXMxNGVZbEw0NkVWdF9BMVVIUG54bmNfTE9iNHRTN1ZYV29iNFpZQW01WjJBbjg1ODlHMlBYNFlCTG1ZU25iWFZ1Zlk?oc=5",
+                    "pubDate": "10-30 14:22"
                 },
                 {
-                    "title": "佳世達 股價三年沉寂，均線呈 Ｗ碗公大底「四線多頭排列」 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16M3hXZy12Wl9HdVVDSWRkeEJZY2ZibzdtUE4zYml4TmRCb1dJZFNsenJBV2hrUDV4MjdIeGh6YkRIZ00yb3FZb25Oeml1ekRSRFI3UkhGcEs?oc=5",
-                    "pubDate": "10-29 17:09"
+                    "title": "2466 冠西電 - 冠西Dammm好猛啊哈哈哈哈 比阿達好太多了 - 股市爆料同學會 - CMoney",
+                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yWnN1Z1U0aHZSUFo3RXRGcDNrUDY3dkxVaU5fV0ZTM0FxYmVmc2I1a1kyWWdKSjdBTGNWWU9NbnVPT3B0RWs3U2FITkZpRlFSQWRBM2QwMEY?oc=5",
+                    "pubDate": "10-30 12:56"
                 },
                 {
-                    "title": "佳世達無人機接單報捷，2027月出貨拚千台 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZzlCQWNTc2t4OVRFSlhMRmx1c0NOakd2Q1JBMmJxbUJiZEpuSC02Qk9WMkJOeHFWVXFfVi01a3ZrU2ZGUV8xUC1EUWYyN2VJZ1hkV2RnZGN0MXNWc1F0NFVJWnFwV1gyTjhXTjVDLXoya1FOVF9tb1Y4Ny1jYUhpTTVMa2RhZ2FYNFJuUXI0TUtxUFRJREc5X1BhUU5TSU1rY0h4Y3VUYlVCamxCQ0E5OHhpaHl3a1F2d21CbGRFSFc2Y2tOYi14a0lfNEpybmVpZlJaYnRqUE1XWGVhN0tlRENBRUxiUVZxSzUtUWRDZDJlSHEyenBobTV0MDlTNl93T1ZYWW5TTkI5d0J2MmZSb1J1V3EyTjdtcF9Ja2pOSkRtdw?oc=5",
-                    "pubDate": "10-29 12:29"
-                }
-            ]
-        },
-        {
-            "code": "2465",
-            "name": "麗臺",
-            "close": 113.0,
-            "volume": 9437,
-            "percentage": 9.71,
-            "news": [
-                {
-                    "title": "【1029台股盤後】開高走低震盪打底！聯準會按兵不動但Google財報帶崩，外資賣超約略688億，策略鎖定主本比【麗臺】、【眾達-KY】、【十銓】｜豐雲學堂2026 年 10 月 - 永豐金證券",
-                    "link": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxQOHBuaUl5VmFMSmNrS2gwUVB2Y0E4czJQZ0VFZXBOWE9JdkxTeHdJb1AzQlVhN2tpZ2ZHY210RlVpYmlCLXE0cEpvaUpHOU5yNVRFX1pocDRPcWh3cGowQkVkMXlSVXFtMDNYRlhldzBUMkxDNlpxMHo0TmhScGtMQWZ5ZnhaRGhrV3NseXBhRmV6WnpzWjVXS0k4bDliZzloN3cyNkVkcTRJQjk3ckZXalViN2lMMDAydnBablk3dGZrZHM4RDR2dHk5SV90TXN3clRiWE1haDY2Zk02dDRqR0I5N3I2cWhZRFNpSHRVUzRxLU1nUnF1ckR3czJZd19HSXlyMGF6bXhjb2U2QU5EYnBVYk5KNHJWNFBNZnQ3cTBGRmJ5b0lHNWcyX3JvbWhJRi0yV1h3bHRkZmVhZ1BpOFRHS3FkV0tZYXpSRmlLTkJiYVhDbkNDcnJtcHpRNUI5MnRIak9abHNST2xhZ0NZSlNvRDdXeWdRNUkwVDZJdC1Ed2Z1TExLWEhocUpoQVhfWDgtSEU0M0VOZGdOTGtsZGF5VWlLaEdKTXczT242MmxhUG81LURtbWpkSXZ3cGVHSk1DR1p4UWVJSTg2NzN5RTR0VVlDYVhVR2p2aHp5MzlqX2puU05SdnN4WEkxTXFfelVzZkRDRTJPN0d1NzIwTnZ4anpGX2VhekcyY0Y0aDBOWW51X05KdDhoLXZFbEhYRVgwdWZVc0p1VmRQZ0x3bUhEYVdPMTBvWDFYWGpwbjJhR1NTMUE0d1g5cVo0eEdwR3I4RzFhaVJKdGhuM2d4LVdYdmV2SlB0dEZnMUk1d3VCY0FDOHF5ODNYN3FuVHI3N0RxQ043TVMwR0dHSTRmalRaNm5nVDFONi1PR1Q1Nnl4NkUwNjF0UDUyaWEyQ29nSmRQbkF1MXQ?oc=5",
-                    "pubDate": "10-29 17:28"
-                },
-                {
-                    "title": "2465 麗臺 - 出借一個多月了，這幾天差不多要還了吧🥲 - 股市爆料同學會 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DZkhjaUFJTlpUZ2ZveXhZcnVHOV9BaWp0aHM0UUlpYUJKd0JlWXU0V2lhNEdmQXhqMGZmalYwckxRRUVXc0IxWGVLWklGS1oyejJnVUV6Njc?oc=5",
-                    "pubDate": "10-29 15:05"
-                },
-                {
-                    "title": "焦點股》麗臺：美超微連二漲 連兩天拉漲停 - 自由時報",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RZUpjMHBnOXF6Mkh3ZkRTV2F0ZDhoXy1KQzBwU0RvMmJaOFZKMUpUNU9fUzJWY0ZEemJUVkNHd3hjcnFVVHNSeU5iNG1JbGs4RTlrUzJtdDM?oc=5",
-                    "pubDate": "10-29 10:34"
-                }
-            ]
-        },
-        {
-            "code": "3035",
-            "name": "智原",
-            "close": 231.5,
-            "volume": 35582,
-            "percentage": 9.98,
-            "news": [
-                {
-                    "title": "智原（3035）做什麼？法說會：奪美系客戶2奈米大單，逆勢漲停原因、訂單動能一次掌握｜豐雲學堂2026 年 10 月 - 永豐金證券",
-                    "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxOZV84em5CNnBWR21SdHdGSlh6aExTMjdvOE9uWXNJTFp1ekJkSzdUY2xvelJGNElmVFZTVEFDcmRLU1F0LUJvbWR0aFh0bGtpUzI3VHgxeEtfaVB0eS1NUkEtVE51Q0RrZm4yX0loOGhrQXVkZjNyOXcyVWMtOHE4YV9veHNiTVhvRlBxWENtZjNsdTdJeEhUVjFGc2tWaXBmSll4N3JZMF9QWW1ZMGRzNWZfUW1GNzlVZkhpcXYwblNZRXhQN0kzTFY5SU5ReWRvRnladk5BTV9yeEFwRHdtZGFudFFGSmlaUzdVeUV3Y2ZnUFR2X3B2NmRvd0xUNU0wak9jdHVmNjhkdDRtazNDSzBYU1ZtWDBDTWdTY3NFT1lHelBTTVdQNVF4STBWSjk4Q19jUmlpeGNpakNxRHRSRktIODZKV3p2WVM0VXVVb0J2ZElxVF8zWnpoMVVPeEtyYVF1U2gyc3RDMG9WREIwRkEzUGMxd2Z3Tkw0NjItVWhMSEVMeFlhczdURWZfR0RBRGdwV2RXNFBJR3dYTVFHRmtjVGVVdFRaRWMxMXdaSnVUVTFuWlNTSkpWQ2kyRXVxZVBVM3BmU01PQXhRa0VrbjUycm5aTjFVeVJULTJ6YTMxX3F0bHBDTFdhVVo0c182N1pNMEFUOTNuZ0o0Y245OA?oc=5",
-                    "pubDate": "10-29 17:43"
-                },
-                {
-                    "title": "聯發科跌逾4%、智原逆勢亮燈！同搶AI ASIC商機 IC設計股走出兩樣情 - 理財周刊",
-                    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DTmV1TmdrMGZBQjZUaXdPczBCZGVsbDVoRHNXaC1fWlMycjdJSzN3c056Rl9ndE90MDdrdURZWXZYdXlGN21lNmZyaHlBRTkxUmNKeG9QUzNZZVE4WlhIelBmVWl1OFQzSy1rVEU3Zw?oc=5",
-                    "pubDate": "10-29 15:28"
-                },
-                {
-                    "title": "今日最夯股／智原接下數千萬美元專案 股價爆量漲停 | 市場焦點 | 證券 - 經濟日報",
-                    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96N2pReVhVZDlyakdrTUhGMmJFTUhiMmppWjMzemZ1MFFTRnl5dEl0RWVKQ01NbUxnX1E5ZTFET3c3Zm5hRFZPYkp1MlF6VW8xQksySUlRQXRRUQ?oc=5",
-                    "pubDate": "10-29 18:41"
-                }
-            ]
-        },
-        {
-            "code": "3321",
-            "name": "同泰",
-            "close": 21.45,
-            "volume": 3355,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "【09:41 即時新聞】同泰(3321)盤中走強，主力買盤續進場 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbE9ja3pLZDFFNUxkWFdqM1VUYm9BUmFONHBPVzhPMjBUdWthMklPb0toMk5oRnZGZjhUZVJ0eDRWemEzN3N3MjNnOGVLLUZCWC1sRHFvYXN6WGcwdTdIcGEwWVFwRnVYWlByYnl3R1NoUWtfMnVhQzNPdFdSNE9oS2c2UVo4dnNpamZONWRn?oc=5",
-                    "pubDate": "10-29 09:41"
+                    "title": "【09:58 即時新聞】冠西電(2466)盤中續強，機器人概念成盤面焦點 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDFiZVhrOTd4N2YzZDZ0RE94ejJ3WTg2T3NUNW5KMzVYQzlmMTd5VlY0dVB4bWNna1NweXFzQlNZTDZELVp4X09EMmlnV0x0VS15cGwwT3pTQS1VZEtYRXR6dlNHeXU0MzVYM0Z1dUVpUndWSmRwYmg5bjFiaGNyT3ZKY2JpblJZSHhNT3JR?oc=5",
+                    "pubDate": "10-30 09:59"
                 }
             ]
         },
         {
             "code": "3432",
             "name": "台端",
-            "close": 15.1,
-            "volume": 129,
-            "percentage": 9.82,
+            "close": 16.6,
+            "volume": 815,
+            "percentage": 9.93,
             "news": []
         }
     ]
