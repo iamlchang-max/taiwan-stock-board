@@ -1,112 +1,107 @@
 {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "stocks": [
         {
-            "code": "00673R",
-            "name": "期元大S&P原油反1",
-            "close": 10.94,
-            "volume": 113941,
-            "percentage": 9.51,
-            "news": [
-                {
-                    "title": "集中市場：週四(5日)三大法人買超前二十名上市股票 - 富聯網",
-                    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0NaVURQbVVxbGVBajlpZlZkS0tGdk1tR1lNZ2k5cm5ja3RlLXI3OEVtdUE3cEhEX0FreVJVUE5kYmRYc2FoUjFMWnZGOTBJY0E0SEMxajFUcW10dXZ0dmpwWE8zN1BTMXhBRGRBTWViaW15ckJzc2NwVktMY0QteDJ6TjJYYUJa?oc=5",
-                    "pubDate": "11-05 16:23"
-                },
-                {
-                    "title": "集中市場：週三(4日)三大法人買超前二十名上市股票 - 富聯網",
-                    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzJyejVLcFFFMG9lc1dmczBrRVJxUTNJdFZOci1lb0hieF8zRVR5RUtfYl9udnpoVFR2OUVYNndKUGtRMjd4WlAtWGVVZFRsUHlpSzh2OGp4MVlGczlzMXZEc2h4dEdrRXBmcEFaWndIVHUzTFBoc3oxclFjd2twRThScWxraG9K?oc=5",
-                    "pubDate": "11-05 07:35"
-                },
-                {
-                    "title": "焦點股》00673R：國際油價重挫 原油反1開盤爆量狂飆 - 自由時報",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZ1VCclJVV0E1NVlraTEyVk1pUURBVE9RbUhIWjNjV0FkaXg4VE5tVHUwbUh2eG9WODNpZnZ0ckp3WWtLU3MwMUhYYVVFV0paa2NXak50bno?oc=5",
-                    "pubDate": "11-05 10:03"
-                }
-            ]
-        },
-        {
-            "code": "1786",
-            "name": "科妍",
-            "close": 49.1,
-            "volume": 1407,
-            "percentage": 9.97,
+            "code": "00715L",
+            "name": "期街口布蘭特正2",
+            "close": 71.1,
+            "volume": 3919,
+            "percentage": 11.27,
             "news": []
         },
         {
-            "code": "3019",
-            "name": "亞光",
-            "close": 128.5,
-            "volume": 8324,
-            "percentage": 9.83,
+            "code": "1416",
+            "name": "廣豐",
+            "close": 16.35,
+            "volume": 19360,
+            "percentage": 9.73,
             "news": [
                 {
-                    "title": "〈焦點股〉亞光前3季每股賺5.98元創同期新高 爆量攻上漲停 - Yahoo 財經",
-                    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPLTNRX19Ya3VsUHM1eURlODMwSEF6NURTRjladG01cE92a2w0ak9LSHV4cjZSSm5IWkQ5ZDJWWTF4RWhMNnBLVUdNbjVhNkxNenN1a3lnQlRzbWtkZVJ6Z2JHczQ4aktXZUdHN2JqNUlMVGdtWUtjZGlsQ1dHZFFOM0ZDcWNVNXhjc0hFZDJiVXJGaVVLTXdhaVFibVI1LW9hUHcxeENfZ0dIdWx0eDI3bVppNjQzb1NaZENqVVduMXItRlczdHF1RkpPdDFPNUtqaWFKVklmZmo0R3Z5dzU1aU9uTWgxTVhmT1htQmkzeEpZcDZEVG90LXRJNTJBYzRIdnZEX2Utbm53ZDU3T1BrZFRtbnM4N0VjV3ZZVnBwa05XVFprRmFWT2xNbWNHU2I1ZXJVbThYLVhhX0IyRGZCcE00NDE4bmFGSDM3VnQ0c2hKLVN3VnpjWTFTOG9qdXRwbHhGUTZqUEQ5bDQya0Jv?oc=5",
-                    "pubDate": "11-05 10:55"
+                    "title": "今日漲停股｜台股巨量震盪重挫1873點失守4萬點，元晶、廣豐、力新強攻亮燈1106｜豐雲學堂2026 年 11 月 - 永豐金證券",
+                    "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQdkNHRW9aODlaWElnZTVHMjhvZ3IwbVVyZDlpQ3BtTm5ycnZZZDE1MVFNTVIwWkpvSTRuVDc4TnU1REtjdi1HV1M2d0hvempHb1l0elczZGxaZkhHZDVSdmR5bjBRVnd4Wk9EZVJud1dOd21ac2NiczhiMU5rd2hqNS1KaG9razZrRHFXbC02MmQxWS00ZDExcndoLU1DVk9sS2NCUXdUcTlUS1FLaWZ5MEE4a1VnaDdUMFFvS1F6clUtN1pRSWFtUm1TYWZyc2tNMUM4blFNb1FrMi1nYnNReW1pQXBGQlhVX2tDQThQMU9EQU8xZ2RpcVZ3Q2d3c0xwV0pVSnRwRkZTRlBBOEw2cUh2Q1VQNlRnVmNTUGs5UVlBTS1BVmptcVRPRHE5MlJqYzROcUhBNlRUc0pKQVM4dmZNSE1qY0U2ZEZlSUhPU1VFd0EteWNmSjZwMHU2dWhEMDg0bUlNX1l2enVaSUxxRjBkQm14XzRtd2pUemxXNlpGb2twS3ZaQUxvSEJ6ajEzQUNWb216RTdieXlzcGhqbFRoNlZ5Mi1CSm5kVWhiYTVvTmJpalJ5UXhDaVhHMzR5QmxQaG5vY04tNFJ5bUhFX3VlYjBsaHhuT2pNRUpEdE4xVmhK?oc=5",
+                    "pubDate": "11-06 16:51"
                 },
                 {
-                    "title": "光學股中萬綠叢中一點紅 亞光財報亮股價逆勢漲停 - UDN",
-                    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xeHFOdXEyWFZjck40b2I0OTFnYXV3LWZWNFVTUzNqaF8zSXFkMjE4ZlkyN2pId3Q4cXpPaWhYQUd0TzA1bW4tb2tnSTNFZlNC0gFWQVVfeXFMUDk1SjM0VHNmS3NMOEI4TmdxSnJEYlFxZmpReUpORE5ESDRMcDFJMHdyTGdoVTZsUkdUVnptS2RTeTQ2ZUdPaW15MnBkd0hhVTd5Z2JWekE?oc=5",
-                    "pubDate": "11-05 12:40"
+                    "title": "【10:35 即時新聞】廣豐(1416)盤中走強，買盤聚焦獲利成長題材 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVEyV2RrNFF2aHFoclFhRENkM19waWtOREdwQ0YzTEZWUW5HcHJKMTJNazMyTVdsNjF4RlFKSmsySFI1WEl5dVVjemF1RGoxN1VfVVl1RllVTk5pc3VmNHV4UE13TGVDVHl2bW53cy15NmRZODRRVWV4cjNpSUZOOTN3YlNuZkNDQmVpbkRB?oc=5",
+                    "pubDate": "11-06 10:35"
                 },
                 {
-                    "title": "今日漲停股｜美股修正台股重挫，亞光、康霈*與偉康科技逆勢攻亮燈1105｜豐雲學堂2026 年 11 月 - 永豐金證券",
-                    "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNM2FpR1VuaWJyTUs4S0ZpOV85U0NHY2daNFg3enRGbHVoTl9zbXNGU3dCcXpsN3Fral9nVTAteWp2UVd1NjFPUzdscHFUcUJzdVBVLURqXzNGVFRhUGMtWENBeHRzbVpyTWxrbVFVcXpTbmM2bHh5XzNzdUc2RGIwcnpKcnpnLWtycFlGRXg3SzdvamJCQmFGTUJfRGUzWXNuNThlR0hPVC1ueVM0eDB6NTV0UlhabEV2anQ2SjZieEpwTjRNRXhwdlRIQnI5dUpHQkNVQWxVUEFQZlE4djUyQmlmQnlYaTJDYVg0cHM5eldELXpTeEFfWFFWMjlGOGFaUXFobUZkWDR3T1FkcWI4VEhUVVUtTEg5Z2JNbkU4cF9Tb3RRaV94X2dTajRDeFNXeVd5cUx4Tjlhbzh5cWJBQ01nc0pFc2N2RWk5R00xalJveS1nbEJvS2lzU0VCNWR4YnNvWnJGZTJtOXZVREdVczFtQ3pqa0J6bGhsMEM0bWdidXR6X1N5RXZlTDc5elBDaFBlcFdONWgxQ1hFbU85M3ZOTXdrVWVmdW1BcUgxQjd1bTF2a3RjQVgyemJPQld6emluMWxzZDRLQl80ZGcwZHdn?oc=5",
-                    "pubDate": "11-05 17:27"
+                    "title": "【09:30 即時新聞】廣豐(1416) 早盤亮燈漲停，主力買盤延續 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFUzSGExSm5XX0dOTFYxbFJLMTFjenhKcEY1N1Y1SEFuREhoaGowSjY5RWVsZm1yOXMtNjNnamN3MVRLMFlMY0lMSU0wdllrMGczczlsRU1aQXBCQXZ5VHNGZng2Sl96bVNSU2MzeC1JamN5NG51ZllSc3BldjlCRDBwOXI2TDBXc0s2RWt3?oc=5",
+                    "pubDate": "11-05 09:30"
                 }
             ]
         },
         {
-            "code": "6698",
-            "name": "旭暉應材",
-            "close": 30.55,
-            "volume": 964,
-            "percentage": 9.89,
+            "code": "3686",
+            "name": "達能",
+            "close": 13.95,
+            "volume": 448,
+            "percentage": 9.84,
             "news": [
                 {
-                    "title": "台股暴跌800點4檔逆勢漲停！「這檔黑馬光電股」EPS衝達5.98元亮紅燈 康霈*、旭暉應材逆勢噴 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQMFhlNXpzekotVDNkRlFWcXZ0d0Vjb19CSzQ1NmNyUkpTNllnYmRPTjJFT1NHR1RHQjVVWXFnZmpyaEhVWmdXcEpiUWRscTZteDV6aTJ2RHVheWdRWWVhSkIxdHRQbFFldUo3MERteUVEcXJraDJMSEtrUFg3eHJFbGJXMElybzlKOFZvb3ZrbmFHNks1ZjVaRXl6LXhxdHB3S0phUFVSaVY4WENfaVVvN3FXamRSMktQRDkzNEFEZlVPMXlUcFJNYzBYLUh3WWhqNXc5eUk4NFpIMjVEUFJPOE5nSGs1dDQtYUJaTVNoaEdETGFIWUpNM0QwRk8tazNlVXVxeTFabkhRWmJYNmY2TjBIOG5ERDdqYjU5ZFhpZ0wwa3Fhb2pIZEs3dEhWTVpYVkZCRTJEd3FEMlo5dmRLNy1XRnAtYi1PUTd4QWN2SExTSElsbXJvY1ZnQ2RUVWhrclZ2elFmMjRZZXowOG1KdjVXeWQ5aFFpSVYwdTY2TUdMU1J4NzFOOXBoVUQ4dmJRY2pjNGlNM3NHQQ?oc=5",
-                    "pubDate": "11-05 09:35"
+                    "title": "台股「黑五」盤中血洗3737點史上最慘！「雙正2」攜手爆量百萬張｜Yahoo財經掃描 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQMjBSbXlyd1k1aVNrcG5KRzJaVHFVd0ZOSDlNZmZEbnRRY0tONTFfUnpxSlpBR3E0SlVlSTRFNHVlalkwZ0tQdnBoR2s3NDVxUlYyV2hGQ2lEYUh1RDVINnVxRkJMa2R3a2UxbVZ2WkVmZmRJdjVVemJPZVF5dHl6WUx3dTc4enQ4RmlMZ0F5MDQ0bFE4NGI4c1d2QlFoMW9GUG84eXZsMDhxZXZyQ3VBR29uZDVHTjBQUTdZOTRtVVNsRjF1SVNfa0NBc1BPRkFiM2txZEtXSGZWZUw0Mlo4WEFSZXR1eHRtSVNwazNTYmJhTkVqNDRNanFKOWpPa0lleC1UTUZLZmo4dGZ5aHVBaXVycGdweXZBX2FrZ3NLNG5wdjl4RDlsLVd3VEhxWC1PaGVEY2Q0WHRqMXFORFM3NTRjdkl3NTBEVGJSckt0THUwVGtjSDN4b1lxVjRhYkYwVG1sT0Q0VUVSVXdBYzNyc1dobWZUQ2JORk5VdTd6UGtGaThxSTJKN0N3X3hNWFRtZXNzbHo4cjRDd2NEMkdYS0xXX0ZySE54QW9WLURDN1BFN2ZCZzlvQU5fRldXSHFDMnEzYWFSTWFxdXF4aVpmS0VtVy1yNHoyQlhWQjBNWGYzODdBRFExVw?oc=5",
+                    "pubDate": "11-06 17:12"
                 },
                 {
-                    "title": "今日漲停股｜美股修正台股重挫，亞光、康霈*與偉康科技逆勢攻亮燈1105｜豐雲學堂2026 年 11 月 - 永豐金證券",
-                    "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNM2FpR1VuaWJyTUs4S0ZpOV85U0NHY2daNFg3enRGbHVoTl9zbXNGU3dCcXpsN3Fral9nVTAteWp2UVd1NjFPUzdscHFUcUJzdVBVLURqXzNGVFRhUGMtWENBeHRzbVpyTWxrbVFVcXpTbmM2bHh5XzNzdUc2RGIwcnpKcnpnLWtycFlGRXg3SzdvamJCQmFGTUJfRGUzWXNuNThlR0hPVC1ueVM0eDB6NTV0UlhabEV2anQ2SjZieEpwTjRNRXhwdlRIQnI5dUpHQkNVQWxVUEFQZlE4djUyQmlmQnlYaTJDYVg0cHM5eldELXpTeEFfWFFWMjlGOGFaUXFobUZkWDR3T1FkcWI4VEhUVVUtTEg5Z2JNbkU4cF9Tb3RRaV94X2dTajRDeFNXeVd5cUx4Tjlhbzh5cWJBQ01nc0pFc2N2RWk5R00xalJveS1nbEJvS2lzU0VCNWR4YnNvWnJGZTJtOXZVREdVczFtQ3pqa0J6bGhsMEM0bWdidXR6X1N5RXZlTDc5elBDaFBlcFdONWgxQ1hFbU85M3ZOTXdrVWVmdW1BcUgxQjd1bTF2a3RjQVgyemJPQld6emluMWxzZDRLQl80ZGcwZHdn?oc=5",
-                    "pubDate": "11-05 17:27"
+                    "title": "【盤後焦點】太陽能資金轉強，「6檔概念股」強勢上攻！ - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xdUwzMlowcEZodC1EUjRuNnhyT2kzbmhBX0V1bC11cHhhWDFqUnpaeXhKZTRwR3Etcm5qWURXSy0tdy03NE90VlF2V2tBb3J2MUdMMzZfMTFtT0pzRThtN0pDWkRhMzVsRzh4NzR6RFU4VE8ybk14d3BDN05qUQ?oc=5",
+                    "pubDate": "11-06 15:05"
                 },
                 {
-                    "title": "萬元股王收跌停！台股單日殺1374點　台積電跌20元至2240 - ETtoday財經雲",
-                    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzd0xPTDlrRFB2ZmRqZVYwY2ZkczZlSDk5aTBWMzNHeVktbl9uZFhPNExYX0NPQndpRkdSNnhDMjNkR1FJOE5HUnZvSXotMlNIclHSAVBBVV95cUxQLVF3V0tGUUpaQURoenBjWmVhTzVPS3BTWDZwMWt3Unp5RUV5TmJ5T2ZFaFFTNUhpWmlyTDd6bktNMkowYUNDakRKbm1XLVo5Mw?oc=5",
-                    "pubDate": "11-05 13:35"
+                    "title": "AI 股遭血洗！太陽能掀政策想像 聯合再生、元晶、達能突圍上攻 - UDN",
+                    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DT3RhQzJXY1c0S3R3UktjTHJaY2lBVlQ0Wi1xZTRVVnctN3VIZzhfMk43dmdnRU5xNjE5NVVQa20tQll5ckJNWUpfQ2x5bnFL0gFWQVVfeXFMUHZPaFdMVTlYY3VyMlVpT3NSSTd0MUwyb0lIWlBUTk1fNGs5TFRVcEdaUEFUNVNQUFlMZWdmcUViM0VMcEVrWUFtQ1QzX0t5cGk1UHpNUkE?oc=5",
+                    "pubDate": "11-06 11:54"
                 }
             ]
         },
         {
-            "code": "6919",
-            "name": "康霈*",
-            "close": 66.6,
-            "volume": 3122,
-            "percentage": 9.9,
-            "news": []
-        },
-        {
-            "code": "8467",
-            "name": "波力-KY",
-            "close": 96.8,
-            "volume": 97,
+            "code": "6152",
+            "name": "百一",
+            "close": 18.7,
+            "volume": 7774,
             "percentage": 10.0,
             "news": [
                 {
-                    "title": "台股下殺逾千點42K失守金融、生技護法航空四雄齊飛揚- 證券 - 工商時報",
-                    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CODFaamJaSXFCc3o3cVp0RE9MbFFYVmRDYXFHQjBsVmczclRSZ1JDbVgtQ1hFcTlGMEc4S3RIaDRlRHBVbnlWWjVfYnYwM2s4cGRhRk9UYXVIN2s3blhJ?oc=5",
-                    "pubDate": "11-05 14:15"
+                    "title": "市場恐慌亞股重挫 台股大跌 元晶藥華藥全福逆勢收漲 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPajg4NnZkTzlHZWVZZmtVblQxZ1NBcFJRMlJPdl9pZjB0NkxVNE5oOThVQXpoNUtvRkE1SkxfSk9yZ1BuRmhVOHFqN2pkY05pM0drNEdQUDZxX2VaMDA5c3NSRUEtM3BLc25KYVRmOTFUUVNIVzBjaVBfNU85S0c3YUg3djc5eHVuMnB5UHV6VEVQX2kzclY3MWtTMjRjUm5pUmw4YkxiX1g0UjE1SjdVWjdSbUZmY0h0SXc1S0kwamF3V3BreFpkSEx5aG9IcUNGa2VjelVSamhZYVNobjU1SzFLcVRvVklSdDhMb3FQOFVnZUtRTGlVMzBCTnF3WlUwTW1vQWw5a1pQRlJPTXVhenV1dnVPUHRVb2NUYS1QMWVQNEc1SzdrY3lOUXNrOFNBTzNfQXUxd3RESktBZXZTcmI1ZTBBSU1mYWM0SGFHcG9EWEZ2Z3BfeFI2V3VZOXhMRE1DcDc1REZnUE0?oc=5",
+                    "pubDate": "11-06 19:27"
                 },
                 {
-                    "title": "焦點股》波力-KY第3季每股賺3.8元創單季新高 股價跳空漲停 - 自由時報",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MHFvdWNIRUwxWkhUaXlUTElORExndndoMmdvVjZwcXFzX2doWUpBbldGODJIdEU0NUJwUnBuSjY5eWwta2x6WGVJWHg4Z2RTM1lDZGs4QWE?oc=5",
-                    "pubDate": "11-05 10:26"
+                    "title": "台股崩1873點 4萬點失守 - Yahoo新聞",
+                    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVlORGFqb3Z0SHdBYkx2bm1XRjZkTzN0bkg0c2wtbE83bjJhNTZkeW12azVpOXJHcFR4eEkxQXNQQlNWTjFabE9Wb25wSXR2cmIyWV9nUE9sdndaVmRyUU5fVEs4YjkyQWZsLUt4OThvX1FjUkFmVl9EQmNfMkFRSkJWQUktaTllTy1DQXNpLXRYNjBiS2VEamhsVjZWWFlQc2w5c1p5aENmVnRoVklwWUJvRUdOZzhqUm5Z?oc=5",
+                    "pubDate": "11-06 21:27"
+                },
+                {
+                    "title": "台股史詩暴跌 2檔正2成交破百萬張 - Yahoo新聞",
+                    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWUF3YUs0bGRBMnhlT09jVFVZUkpYbkVURkN3WlBDTzZYdWNtZ1BlcU84LXhrQUVkbkNYdE9fN1R1RzFrTDJnSFU0cGpJZEltNHVlSFNJZFF5SFllMFdXX1FOel9tV1VPcGVYQTVtZnhBZ3ozNzdfajd5bHNKb2xyUXdXdmc1VU5WaGF0Y2NVb2dPQlZiTTZyVjdDVkF4c0NHVGRNeFdVaFFJckdwRWFmb0FQQ0RJYnNrZEMzLU9PYUZhV3pkYkdwaGwwTmJYYlZ2TG04SUM1akpfUTE0empzWVBNeXA0REt5eGRTanR0RFpZLXBJMG5ZdG4teTNVQkU?oc=5",
+                    "pubDate": "11-06 21:19"
                 }
             ]
+        },
+        {
+            "code": "6443",
+            "name": "元晶",
+            "close": 25.95,
+            "volume": 40744,
+            "percentage": 9.96,
+            "news": [
+                {
+                    "title": "今日漲停股｜台股巨量震盪重挫1873點失守4萬點，元晶、廣豐、力新強攻亮燈1106｜豐雲學堂2026 年 11 月 - 永豐金證券",
+                    "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQdkNHRW9aODlaWElnZTVHMjhvZ3IwbVVyZDlpQ3BtTm5ycnZZZDE1MVFNTVIwWkpvSTRuVDc4TnU1REtjdi1HV1M2d0hvempHb1l0elczZGxaZkhHZDVSdmR5bjBRVnd4Wk9EZVJud1dOd21ac2NiczhiMU5rd2hqNS1KaG9razZrRHFXbC02MmQxWS00ZDExcndoLU1DVk9sS2NCUXdUcTlUS1FLaWZ5MEE4a1VnaDdUMFFvS1F6clUtN1pRSWFtUm1TYWZyc2tNMUM4blFNb1FrMi1nYnNReW1pQXBGQlhVX2tDQThQMU9EQU8xZ2RpcVZ3Q2d3c0xwV0pVSnRwRkZTRlBBOEw2cUh2Q1VQNlRnVmNTUGs5UVlBTS1BVmptcVRPRHE5MlJqYzROcUhBNlRUc0pKQVM4dmZNSE1qY0U2ZEZlSUhPU1VFd0EteWNmSjZwMHU2dWhEMDg0bUlNX1l2enVaSUxxRjBkQm14XzRtd2pUemxXNlpGb2twS3ZaQUxvSEJ6ajEzQUNWb216RTdieXlzcGhqbFRoNlZ5Mi1CSm5kVWhiYTVvTmJpalJ5UXhDaVhHMzR5QmxQaG5vY04tNFJ5bUhFX3VlYjBsaHhuT2pNRUpEdE4xVmhK?oc=5",
+                    "pubDate": "11-06 16:51"
+                }
+            ]
+        },
+        {
+            "code": "6947",
+            "name": "台鎔科技",
+            "close": 62.1,
+            "volume": 665,
+            "percentage": 9.72,
+            "news": []
         }
     ]
 }
