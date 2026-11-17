@@ -1,155 +1,120 @@
 {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "stocks": [
         {
-            "code": "1540",
-            "name": "喬福",
-            "close": 18.7,
-            "volume": 847,
-            "percentage": 10.0,
-            "news": [
-                {
-                    "title": "史上第二慘！台股終場崩跌2635點「失守4萬2」 台積電收2215元 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOV3NKM1BKa3hWdmFHbmxDcXkzVi1RUXF0ZkRiZmEwdVRSUTVRejNZTC1PN0VwWFF1d213TUhlekZxMlBuLThWR2JWclhZVFM0YXBlSzZLWkZId2xibTZKYXZWYXJ2OU55WDNIT0tBeHRRUVh3U09OY2h6YkY4TmdlTkRBd1pxQmljSXZUSDNFM0JuTldNUVNaZmszTEFtdXNjbE52MldhR3BFdDJaZ2Ixb0FQdFZoUjZkWkllcUcxUW5jem5GZFdpaWlCT0JaX3lyZllWQ09aY0kzMjFQYXNQa3JFeHNQcGFVSDhwYTA4OFRxWG5adVBzOVhfajRubFlTd2NkQ0FnUWxYRTdOU25QUUZ0WmJ1aW9EdWZranVGUjl5M25ENlNaWEYxdUpLNFg1SnJwN1JqUTMzQ1prcXB2OGozZ3ZFa0ZzaGJOWV9TZ3A2LU1WZmpEdF8xb3k?oc=5",
-                    "pubDate": "11-16 14:31"
-                },
-                {
-                    "title": "Vera Rubin傳遞延、費半重挫！台股崩跌2,635點史上第二慘千金股、AI股血流成河- 證券 - 工商時報",
-                    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xR2d5d0NOMlhwbzFycGh5R3UzR19UMXpGVkRpWGpQdnV6aWpkeXFBREtmLThnRGpseWxRbGRwVXI4LVFSbGF0cUZYYVlMX3NKTXRfbm5Odmg3U09DRWFR?oc=5",
-                    "pubDate": "11-16 14:24"
-                }
-            ]
-        },
-        {
-            "code": "2468",
-            "name": "華經",
-            "close": 81.6,
-            "volume": 7648,
-            "percentage": 9.97,
-            "news": [
-                {
-                    "title": "黃仁勳閃辭領台股震盪！開盤挫500點但21檔逆勢漲停「這題材」成資金黑馬…華經、中華資安亮燈 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNUGgtemwxR01HYWdiTEtTa0w2NHNuTlV0a3g5dFVHZmtUWHpNb3JRWkJjTXBiWmowZGtBR3F0QWpMYkxvYTNiUlBTaEFXYmloS1BkMjNHY3NUb3FxR2ZOZmxBSGMzV0dUdnNfR3d2OTlLMmgxUE5NVW5heVRGdmExTTVaT1RMaXltMTVVSUVtTVRVMVcyVkpaS3hrNUxuRjNBWVRqdU9uQVFCREhxUGx3WDlFVllwejM0QmlQekROM2dsbEkwMmN6TDlRdGpQQ0owVUFxNFdVRGM4c3lTOWxWeHhGNFUzcUpQT3U0UWF4NkM3dkpMWjVzVENKaU1ienRHQ2VPcW1uMndncFlzaVRMUGFua3pVSVgtU25UQ3A0SU5YYUJJWTV5ZUtuQ0Fzay1DYjg5azdyYUdjR3ZrZTFUV0RoUUlFcDZpNE5VMUNxVldXamg3WHhxVmJfWEE1UW9BMzNWUWhIQnN4NF9VTEJ1dXZ2SmUyVW1zMTFqbmZXVHlJanhQNEo3dWdDczVBOEwta3VINm9IU01BX3VtcXh2UVJrQU9IaHNIdHlCeUk2c055RU1iOHUzU1Z6T0djelpzOTZoVVBYcTJpM1ZkOHE0?oc=5",
-                    "pubDate": "11-16 09:21"
-                },
-                {
-                    "title": "意藍、樂意再飆漲停！資服股華經、驊宏資、資通、訊達齊亮燈 天擎、智崴、台聯電攻頂鎖不住 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOLXEyN2RMbzZuUF82UDNFRjlLSl9oRUlJTElwQkRLcXBrdjJSN0VqNVdxdVBYMXZ0UHlaVDFDR2NGN1B1MmdIZEtqM2hXN29ya1Z5X0h6dl93S0hablliYms5dWRwRWFxSm9DZlhjMWNBeE5FV3k1RHBYTHVBMWVySTd6czd6V3o0SW9XNE9pVDM5U1dUWkwwSFhRaTlfMTE4bzNlWk5RMlpZblE4TW1ybDN5cUM0T1lZZ1NmMHNqSjZFVGpWamNaZ1BQQVViNklheU9mNlZmM0k4ejhmb1FNcmdjakxNbnJwblYzTHVDeUlmbFk4T3M5Z2tnUVhvVGp2RTltaXRCRGpHYWpjb1ZYTTZmZC1qTDZIUklFbllQQXljN1dZN3lBSU9pQTRBajEzWUtqR0ctQmM?oc=5",
-                    "pubDate": "11-16 09:54"
-                }
-            ]
-        },
-        {
-            "code": "2471",
-            "name": "資通",
-            "close": 78.2,
-            "volume": 13231,
-            "percentage": 9.99,
-            "news": [
-                {
-                    "title": "AI硬體股全面承壓，資服族群逆勢走強！精誠、宏碁資訊成資金新焦點 - 理財周刊",
-                    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FMThDRW5TM3hibmNEZ3pzVV9QM0EwOTVnSzByU1RGMk9vUkhGMHRSVTlrMS1zT1JDMFI4Sm5sUWtkRE11NHp5Y3F1U3l3Qi1qT2JqcTlxcWRUUUdzY01ZQ0RYYXBHMHRHMkNCRlduaw?oc=5",
-                    "pubDate": "11-16 13:23"
-                },
-                {
-                    "title": "TWA00 加權指數- 台灣科技廠站出來了‼️‼️ - 股市爆料同學會 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iMm1RczdWRzFYMjIwS0IyOW9PNEdKT1FvSlNqd0ZoVTk3c3ctWDR2N3B2OFloVm5iM3RQbW9aQ1R4RF9EcHVfcTBJak1KTnF3LTRoZHdHb1M?oc=5",
-                    "pubDate": "11-16 18:39"
-                },
-                {
-                    "title": "今日漲停股｜台股重挫2,635點創收盤第2大跌點，資安資訊服務逆勢抗跌，驊宏資、資通、華經強勢亮燈 1116 - 永豐金證券",
-                    "link": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPeXhVU2Z5TV9taUF2OW41VDhhc0tWOEFWRnl2bTBWVks5aDNvQ0dqS2FraWFidzVLNXc0NFh1eVdqckZRNEtyY3c4MEFKM3d5UmROaFQ0ekpGeGpJNHFRSVNCeF9zbDFPLUJVcl9ISzhfRTlob0w0YXVrY2QyZXdBbGU0TG1WcFdXTjZJNk5abjlsbDVTZXdybE9Ia1h6czZPSEVZcWpLRGNVRldwVWlzZFMxMVNZWE5zbVo1YlVhc3U0a3lqcmIwSnlsdnNRSC0tN2l2UHBVLWU5alRNQ0xDeEV3bDVRUmJTUzV4MHA5V1I2NS05OE5SNlJvRndyUXBNQ3hGOEtYZUlXaU10enU3VUtLbFBDUVZ0aWdtNG9NZXV1Zmx2aURRZlBfdVNrZVJKVFRjSnlPOEJIeDdzRjAwXzRJejFxT3hteHpXY3A0SEdGMmJjRjhkVDc2MlJWaWZLallwcGZQUjU0TkZ1QjFqSGRqNk8zMUM4bmJLQkhmTW5vcDVvajFua2s4cjRqSW1DWk1uQWYyN0thMlBKN1dFQndiZzV1VnFTUjM2SlE3a0RRRXNJeWlFcVN5MnFjNXdnZFNCdURfMUVrVzRtdm9XSVJhWnUzUnF5QVNVUGljVUdkamJ3WjNpMDhnbHpiQXBqdHptTEdGM3NCU0RtSmNDaXo5SDhES2RoeXB2MllaMUIyRUY4cVJFMjcwYTk2cTVzOEZwbkZjTFNpREN3M0NDa2J2TTFtLVI5c3FkUENIMWlLUk44cTJUT2tmYVFiRC1FQlZVOHhvTWpuSTBjZEZ3?oc=5",
-                    "pubDate": "11-16 16:18"
-                }
-            ]
+            "code": "2911",
+            "name": "麗嬰房",
+            "close": 5.62,
+            "volume": 418,
+            "percentage": 9.98,
+            "news": []
         },
         {
             "code": "2923",
             "name": "鼎固-KY",
-            "close": 28.75,
-            "volume": 290,
-            "percentage": 9.94,
-            "news": []
-        },
-        {
-            "code": "4807",
-            "name": "日成-KY",
-            "close": 35.3,
-            "volume": 1026,
-            "percentage": 9.97,
+            "close": 31.6,
+            "volume": 561,
+            "percentage": 9.91,
             "news": [
                 {
-                    "title": "史上第二慘！台股終場崩跌2635點「失守4萬2」 台積電收2215元 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOV3NKM1BKa3hWdmFHbmxDcXkzVi1RUXF0ZkRiZmEwdVRSUTVRejNZTC1PN0VwWFF1d213TUhlekZxMlBuLThWR2JWclhZVFM0YXBlSzZLWkZId2xibTZKYXZWYXJ2OU55WDNIT0tBeHRRUVh3U09OY2h6YkY4TmdlTkRBd1pxQmljSXZUSDNFM0JuTldNUVNaZmszTEFtdXNjbE52MldhR3BFdDJaZ2Ixb0FQdFZoUjZkWkllcUcxUW5jem5GZFdpaWlCT0JaX3lyZllWQ09aY0kzMjFQYXNQa3JFeHNQcGFVSDhwYTA4OFRxWG5adVBzOVhfajRubFlTd2NkQ0FnUWxYRTdOU25QUUZ0WmJ1aW9EdWZranVGUjl5M25ENlNaWEYxdUpLNFg1SnJwN1JqUTMzQ1prcXB2OGozZ3ZFa0ZzaGJOWV9TZ3A2LU1WZmpEdF8xb3k?oc=5",
-                    "pubDate": "11-16 14:31"
+                    "title": "大盤劇烈洗盤！國防、網通與營收爆發股領攻，合勤控、強新、鼎固-KY亮燈 - 聚財網",
+                    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XM3AzQ1RkUUZBSXR4WE5xcVRaWmluVUNNbmozY2lnYzJlRng1Q3dRSWZCZUNVSDVTNDBsMFNGU2EyWmhJNzdycGI5aVQ?oc=5",
+                    "pubDate": "11-17 19:02"
                 },
                 {
-                    "title": "台股重挫2635點 收盤跌點史上第2大 - 美麗島電子報",
-                    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WN3FQZWluODB0eWpVMzVkTVFfZEhPOV9fZGVBY0lQLWNIS1FEdU9qc2hqeEgxMU5hVEp5SkZtbmVIazdiRVRhNzE2THp1VFVQRHZ4Rg?oc=5",
-                    "pubDate": "11-16 14:18"
-                },
-                {
-                    "title": "黃仁勳閃辭領台股震盪！開盤挫500點但21檔逆勢漲停「這題材」成資金黑馬…華經、中華資安亮燈 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNUGgtemwxR01HYWdiTEtTa0w2NHNuTlV0a3g5dFVHZmtUWHpNb3JRWkJjTXBiWmowZGtBR3F0QWpMYkxvYTNiUlBTaEFXYmloS1BkMjNHY3NUb3FxR2ZOZmxBSGMzV0dUdnNfR3d2OTlLMmgxUE5NVW5heVRGdmExTTVaT1RMaXltMTVVSUVtTVRVMVcyVkpaS3hrNUxuRjNBWVRqdU9uQVFCREhxUGx3WDlFVllwejM0QmlQekROM2dsbEkwMmN6TDlRdGpQQ0owVUFxNFdVRGM4c3lTOWxWeHhGNFUzcUpQT3U0UWF4NkM3dkpMWjVzVENKaU1ienRHQ2VPcW1uMndncFlzaVRMUGFua3pVSVgtU25UQ3A0SU5YYUJJWTV5ZUtuQ0Fzay1DYjg5azdyYUdjR3ZrZTFUV0RoUUlFcDZpNE5VMUNxVldXamg3WHhxVmJfWEE1UW9BMzNWUWhIQnN4NF9VTEJ1dXZ2SmUyVW1zMTFqbmZXVHlJanhQNEo3dWdDczVBOEwta3VINm9IU01BX3VtcXh2UVJrQU9IaHNIdHlCeUk2c055RU1iOHUzU1Z6T0djelpzOTZoVVBYcTJpM1ZkOHE0?oc=5",
-                    "pubDate": "11-16 09:21"
+                    "title": "台股暴跌947點險守4萬點 盤中震盪1747點 - 美麗島電子報",
+                    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YcnR2Rkl3Qm1XdUU2SXpNTXpiN3F3MzJISHo0NjVPUGJQa0dPUWhEdldOMjdkWWpibzV3eWF2d2swd1RBZkl2Y1pIZGNFRE9GbXNtRQ?oc=5",
+                    "pubDate": "11-17 14:20"
                 }
             ]
         },
         {
-            "code": "6614",
-            "name": "資拓宏宇",
-            "close": 40.5,
-            "volume": 593,
-            "percentage": 9.91,
-            "news": []
-        },
-        {
-            "code": "6949",
-            "name": "沛爾生醫*-創",
-            "close": 49.5,
-            "volume": 6439,
+            "code": "3704",
+            "name": "合勤控",
+            "close": 38.5,
+            "volume": 8965,
             "percentage": 10.0,
             "news": [
                 {
-                    "title": "6949 沛爾生醫*-創 - 【最新消息】生技股逆勢抗跌，「細胞製品廠」漲停創30日新高！ - 股市爆料同學會 - CMoney",
-                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wWW1ISDlIc0hxT2lzR3pVV0tCSzBxUEk1QklvanJldjBmLUtLSEVzeldKZU5SdFlpWFI0NWFGRmhVcUE4UVlqcktCdjZNM0hJaXg4Z1RjNE8?oc=5",
-                    "pubDate": "11-16 18:35"
+                    "title": "【09:02 即時新聞】合勤控(3704) 早盤放量走強，市場聚焦國防與寬頻訂單動能 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeDBtaWxfcFh0U2VLUUQ4Zm4yQkdvYWQyTXVYV3lHbG5Zc0tfaUZIXzgzMWtQNjdEM1g4dWplSTNIRVE2czZvd3FiT19VR2ZjM2JjOEYyR21HUk5oUEZqcmpSWFNYY0FVWnh4N1BUTkQ5YWdsSTZ4aWV5aTI0bU4yd3NRM3FWODljTm5yZGZB?oc=5",
+                    "pubDate": "11-17 09:02"
                 },
                 {
-                    "title": "【09:08 即時新聞】沛爾生醫*-創(6949)亮燈漲停，失智症新藥商機成盤中焦點 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGJkYnRqSEhjZnVlX0ticExvS1JnN3h2T2xCYk54YmViNlp5ZFVNa1FmZWEyWFhQZG8zSnM0Qmxnb2stN0U5b3AtdGJVd013OVREbXZmVFVObG1rd21hNmpIMVpjQnpTVkxlNEdiNGU0T0ZIaEhNc3lSUjlXTXo3b2RnS0pzWGpnUzhxMTd3?oc=5",
-                    "pubDate": "11-16 09:08"
+                    "title": "合勤控(3704) - 富聯網",
+                    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjFranZEcFB6cXRnQjdhb2p3X1Y3Sm5MejctWVd2T3hBY3c0X3FhVEtQNUtWMGItZ1RteUxYT0tqdmgzaXNqUmRFYlhXaUpzV19veGFOcmZSXzNWbjNsX0hLRmJ0NVlSQkdOX2s2b1RGdXd0NG9IZ2tHQWxOd2pDZlRCOUY4UQ?oc=5",
+                    "pubDate": "11-17 11:53"
                 },
                 {
-                    "title": "台股史上第2慘！崩2635點收41040　台積電8560張絕殺暴跌135元 - ETtoday財經雲",
-                    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lTzNiSko3Wko3SWZENjE3NGd2SkFXM0Z6R2pzUTZEUFI2RWRBeVhyRlBKQ0hRNDJ0Zmp1S3VfQXZGOWtuU2RFWDktc3ZRR2VodEHSAVBBVV95cUxQOU1RQzVWalJGOUo4ZFRseHpfRXBuemdoUE15c2JjSEVVclJYcEExdXFqU0VVWUNITm10RDNuV084SDBOWWdDOXdPV09GUTNNdg?oc=5",
-                    "pubDate": "11-16 13:35"
+                    "title": "11／17盤中熱門焦點股- 證券 - 工商時報",
+                    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLV2d1bTRkZEtDbUFLRnBic2NzVFJIUXcyQVdwcnFwX2sxc3J4TkEzS1JCM2RwX3dvQVE4ZWR4WERwbWRUYkhvSnRLd0ZSWkVzUFRRdFFCTHJPYVJBbTBn?oc=5",
+                    "pubDate": "11-17 11:41"
                 }
             ]
         },
         {
-            "code": "7765",
-            "name": "中華資安",
-            "close": 296.0,
-            "volume": 903,
-            "percentage": 9.83,
+            "code": "6794",
+            "name": "向榮生技",
+            "close": 74.2,
+            "volume": 118,
+            "percentage": 9.93,
             "news": [
                 {
-                    "title": "中華資安（7765）前三季營收、獲利創同期新高 AI資安成長引擎蓄勢待發 - 理財周刊",
-                    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzMFBydDhnZFJpM09YTTY4S3dyQUN1SkcyWXpQUmNtZkM0OUotZFdIaGNpcWhXb2lmbDVWRDBIZTVMNGxQallqMjlHUjNBbkhiMzFKQzlxZlRZbXo3NXdWUlFIcXNqTS1LS0QxaWJFTQ?oc=5",
-                    "pubDate": "11-16 14:04"
+                    "title": "《生醫股》注意股：向榮生技 近5日漲3.85% - 富聯網",
+                    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFBIc3gtOEZpeThONnYwVTYzdWtaMUtaV0lGQlJ6U0ZmU3VQcUxDdDEyNDZMSW9KNzNGWXdkc0Q2eERCd0lFbERMdjdGcWhPMXJUQlRvVy1yNVcyLVN1V25IenZxSFlkODBBc1ZhVTVDOGd2THdWT1hjZFhHVm9KTnNtbVd0a3k4?oc=5",
+                    "pubDate": "11-17 08:07"
                 },
                 {
-                    "title": "黃仁勳閃辭領台股震盪！開盤挫500點但21檔逆勢漲停「這題材」成資金黑馬…華經、中華資安亮燈 - Yahoo股市",
-                    "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNUGgtemwxR01HYWdiTEtTa0w2NHNuTlV0a3g5dFVHZmtUWHpNb3JRWkJjTXBiWmowZGtBR3F0QWpMYkxvYTNiUlBTaEFXYmloS1BkMjNHY3NUb3FxR2ZOZmxBSGMzV0dUdnNfR3d2OTlLMmgxUE5NVW5heVRGdmExTTVaT1RMaXltMTVVSUVtTVRVMVcyVkpaS3hrNUxuRjNBWVRqdU9uQVFCREhxUGx3WDlFVllwejM0QmlQekROM2dsbEkwMmN6TDlRdGpQQ0owVUFxNFdVRGM4c3lTOWxWeHhGNFUzcUpQT3U0UWF4NkM3dkpMWjVzVENKaU1ienRHQ2VPcW1uMndncFlzaVRMUGFua3pVSVgtU25UQ3A0SU5YYUJJWTV5ZUtuQ0Fzay1DYjg5azdyYUdjR3ZrZTFUV0RoUUlFcDZpNE5VMUNxVldXamg3WHhxVmJfWEE1UW9BMzNWUWhIQnN4NF9VTEJ1dXZ2SmUyVW1zMTFqbmZXVHlJanhQNEo3dWdDczVBOEwta3VINm9IU01BX3VtcXh2UVJrQU9IaHNIdHlCeUk2c055RU1iOHUzU1Z6T0djelpzOTZoVVBYcTJpM1ZkOHE0?oc=5",
-                    "pubDate": "11-16 09:21"
+                    "title": "快訊／台股40K險守！收跌948點　台積電跌45元至2170 - ETtoday財經雲",
+                    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jeUVTUWgzU2trTzJCMmNKZkQ0aWlfU0ZDN3kxLWFqT2hla0NGVzRIUlJwengwU21WOS1JTzVTYVVrNUxua2FNRXRtSHMybEtyTnfSAVBBVV95cUxQTVZ1Q28zNVZQdDVOZERQY21yRkRYRE9XTjVBOHNsWDhOZlVMWjByeU0xNXFBeE5yT3J0LVNRS1NraEs3NHNHMmkySXIwcW9TQw?oc=5",
+                    "pubDate": "11-17 13:35"
                 },
                 {
-                    "title": "【最新消息】台股重挫2635點，華經、安碁資訊等3檔資安股抗跌-起漲K線 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONC1EREFTS3V0d044RHdyU1BETGlXU1Z5bTliVm11Q1BfNEF0U3FoNDBNRjlBenRDQ0RNQ05IaUMxVGpzYlpKTzhrZ1ZLeDNON2dWQnYzMjJCUEQwZ3ZBcnVNTjllVDFqTHluRG9ESzBhS0ItNjluQUxVTEFTVUw5b1M0THc?oc=5",
-                    "pubDate": "11-16 17:40"
+                    "title": "《台北股市》注意股：17日50檔世芯-KY.健策.驊宏資.穩懋.雙鴻等- 上市櫃 - 旺得富理財網",
+                    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Tc0hyblVNbDEzTmVWaG1NdWNyakN2TnVjRmRUZl82b09yc0N6VHdlTzdHaFozQmFGaDhROHhrS0FoRS1oeE9xT29ydE5DQUQwT0x6ekpaQ0c3aXVGWklfTFZoWXFPZ096anc?oc=5",
+                    "pubDate": "11-17 07:57"
                 }
             ]
+        },
+        {
+            "code": "6908",
+            "name": "宏碁遊戲-創",
+            "close": 23.25,
+            "volume": 150,
+            "percentage": 9.93,
+            "news": [
+                {
+                    "title": "宏碁遊戲取得PlayStation香港總代理 同時入選「臺灣璞玉指數」成分股 - 鉅亨網",
+                    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wR2RsRndkS3NhMWRtdlA5X3hXMzNjOHJRMFA1eHVSaWxGcTRFdkE0c2YxeERlOWJWcDkzQzRSbVd4UlBtcC1XZDFCbVRqYlU?oc=5",
+                    "pubDate": "11-16 15:50"
+                },
+                {
+                    "title": "大盤摜破4萬後急拉！半導體權值帶頭V轉，資安重電異軍突起 - 聚財網",
+                    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DU1RpUnNwSEVMTnBmZjRZRGNERWVWVE83S0pqdWlJRThab3UyTVNmSjdBX1Z3OTZqY2dRZmgtbWUzSmtoTWVUWURRSVQ?oc=5",
+                    "pubDate": "11-17 10:45"
+                },
+                {
+                    "title": "《電通股》宏碁遊戲-創海外布局再下一城 取得PlayStation香港總代理 - 富聯網",
+                    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakxCQTZ6aWVhcDFFbGJIaEVVR24xc3h5ZEo1U0lIdkxpSU5iVlBnbkpId3l3M2g0WVVETTJqVnYtc2lIYVk4UE5zM1QwTlRxeTc3cFRUVkFnTTRDbmxrOTA0VGV4SDhFRmhiT0U4cU0zVU5NMURpTDVlNmwzZndZaGdQZGQ2UENM?oc=5",
+                    "pubDate": "11-16 16:57"
+                }
+            ]
+        },
+        {
+            "code": "6919",
+            "name": "康霈*",
+            "close": 74.8,
+            "volume": 12746,
+            "percentage": 9.68,
+            "news": []
+        },
+        {
+            "code": "9933",
+            "name": "中鼎",
+            "close": 56.6,
+            "volume": 53644,
+            "percentage": 9.9,
+            "news": []
         }
     ]
 }
