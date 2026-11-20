@@ -1,27 +1,78 @@
 {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "stocks": [
         {
-            "code": "2923",
-            "name": "鼎固-KY",
-            "close": 34.95,
-            "volume": 460,
-            "percentage": 9.91,
+            "code": "2468",
+            "name": "華經",
+            "close": 69.1,
+            "volume": 88706,
+            "percentage": 9.86,
             "news": [
                 {
-                    "title": "11/19 起漲訊號日報｜大盤重挫下，轉強起漲只剩1檔，已在強漲還有64檔-起漲K線 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTZMTHduVEFsVXFxaUo0WklpdTlSU2NybkNXdW1GUVhGTG5zVUxEdkRrQ25hSmV4RF9rcmhmX2p3WnFxd1ZMcjZaQjh1VVdmTmxjT2xsTUQtM1FIXzZGMUVtWTZtRFl0MDVBTHZjNWlzaWlQazF3YWQwNExxSGd4QlRackc?oc=5",
-                    "pubDate": "11-19 17:13"
+                    "title": "華經、安碁資訊、精誠10月營收年增，台股跌2393點時資安股分歧-起漲K線 - CMoney投資網誌",
+                    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG5RNUdYWG5mcl8wbGhVYTdGUi02NXFHVFZxdXB3a2p2VW4xLVQwNWdnclJpVkRWNXRlcFU2blhhSGkybENLc2RvZklaRS1xbUVDMEtYaXZ1WmtPWWUwcUN3Y1dIRXZUSUJFazgzd2ZnLXZiWU5yOUg5dUY5eUxrTVpKOXg?oc=5",
+                    "pubDate": "11-20 17:26"
                 },
                 {
-                    "title": "【10:05 即時新聞】鼎固-KY(2923)漲逾3%逆勢走強，防禦資金湧入 - CMoney投資網誌",
-                    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3pWSkJoLXRUS3NIc01mQkxWeWxIel9McDhwcXRXa0hXUzJhRW5KUUphRDlyeTVIT2xKVmdzbWVtR2VSUmxKMkNXbGV3c0pKRkNzZzI1cUpTR3lCUTc2THVwVWR2aXdwNGF6RVZoRC1ZS2YweS04ZmMwU3RFdURJRERRRlFlSVBGS1VMdkhn?oc=5",
-                    "pubDate": "11-18 10:07"
+                    "title": "焦點股》華經：避險題材失色 帶量下挫 - 自由時報",
+                    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HXzB0ZWk1QUlfU3VyTmtzaEpibzdEdDE3WXFFeFlnUXROVHNRTlYxS3R5ejlCT1E0M2VrTjBlYXlqNzk3MGxKcUxQVEZYUWlFNzBDTkFOdVQ?oc=5",
+                    "pubDate": "11-20 11:38"
+                }
+            ]
+        },
+        {
+            "code": "2471",
+            "name": "資通",
+            "close": 62.8,
+            "volume": 23101,
+            "percentage": 9.98,
+            "news": [
+                {
+                    "title": "資通（2471）漲停後連吞跌停－熱門話題｜股市爆料同學會 - CMoney",
+                    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LLURzdzhmOExaYXlvOHZvRXVISU9DR0FEUkszU1c5WHAtOGdMOXRhMWJSRGFiOXE0YVV1TUlsZmxxejN3TG9zUTUwbVd6MEpBZVIwa2FCLVdJQ1FuQXc?oc=5",
+                    "pubDate": "11-19 09:16"
                 },
                 {
-                    "title": "雙王低頭 台股量縮跌1,768點年線不保 亮燈漲停僅3檔 - 工商時報",
-                    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02aU51VjFUemkxSGhDTnUwRjVCeVZtdTc4QzdoSUFHbXM0WGpTTzBWMEQzWEs0TkZXd3FfdDM2cDZxa0U0WXdrZU0tWnU3b2dTRVNDeTEzWUxHSkJmcG9F?oc=5",
-                    "pubDate": "11-19 14:08"
+                    "title": "台股20日重挫2393點史上第3大跌點 這2檔資訊股抗跌收漲停 - 理財周刊",
+                    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xUEM2NTlxQnFiVldIVFBxanVCTkZ5MmVKNzk2VmNRckItOFlfejRIOVhiM2YyZzlWc0VQSWFtUEsxU2VpRTN5bzVwOVhkbXRTMnFablFmV2JNalkwQjl3d0hNLXNNcFBpUHdMZDBEMA?oc=5",
+                    "pubDate": "11-20 15:15"
+                },
+                {
+                    "title": "台股崩跌逾2400點它卻逆勢漲停！不是中華電信，「這1檔股票」股價衝高， 成全場亮點 - 風傳媒",
+                    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81b2VPc1UxdzFXVXZLckJTMm54VUFMVFNjZ1ZIcWpkUm1GU0RnRUZWMlBadkRhSFBkRF9lZmh3ZV9QNEoyOHhHQmhydTR2azdK?oc=5",
+                    "pubDate": "11-20 11:19"
+                }
+            ]
+        },
+        {
+            "code": "6614",
+            "name": "資拓宏宇",
+            "close": 40.7,
+            "volume": 1796,
+            "percentage": 10.0,
+            "news": []
+        },
+        {
+            "code": "7765",
+            "name": "中華資安",
+            "close": 294.5,
+            "volume": 8577,
+            "percentage": 9.89,
+            "news": [
+                {
+                    "title": "限空令也救不了！台股崩跌2393點創史上第3大 中華資安逆風領軍飆漲停 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOZ2ZoRHNLdnJWSkNRelZzWi1zQVVPaHBiblZZcmVrY3RxTFhPSk5SZURPeVlBR2JNZ2xMMW9wSmZvQzE3T3FrMDFDb2gzU3BVLUhCX3Q3Y2FVR1NFSFRhdXhUT19jVThiWVhZSDByNmM4Z2dfTy1uVFY3YzhXdktYRHV5Nnk5SWR6eHhXanJHSmZ4UUtkVDZIdmhpZk1weUZ6U0Fpb0xsa1VqVFk1cGpwM3kwRkcxXzlEVGpqaUZrWmEwNHZRY0FFQjNFZWJFSjZRN2JtUDBiV2ZPOHBEXzhiUnBpdm1QTFQ3MGt4cjVXazlqNDJkVXdOT0s4MXlOV0dQb0RQQWptODFIZlB2LWlOQmQtM2xKRm16XzM2RzRGQ3IxUjE5UFlOT2EwZE5Bd3hrTjZUcHg2b3hkYlVoMlRpNk83dHVZYnUtejZ2bHgxekNlY0RlT3NiOUZ6b2QyRFNNZ3cyOEZZSU9jZlZtX1BGU2Z6MVI0cHUzcDEzcVI5VEZqWDJ2eHpVcDlnc29sYy1zOTR5ZG9OTmtkSVRFTUs3MW5ONTVwOUI3S1A4ZXhpYXRjQ204?oc=5",
+                    "pubDate": "11-20 17:34"
+                },
+                {
+                    "title": "台股重挫一片綠！資安股逆勢漲 中華資安強攻漲停 - TVBS新聞網",
+                    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDSjduRF9UQ0hWb0E4Qy0yOUl4OHVFZHZGZlZha2tySGhQbnBBb1FFQVFSdzVEMlp6c3djMGtqYWU5a1k3QXlobzVKNUMwcjg?oc=5",
+                    "pubDate": "11-20 15:08"
+                },
+                {
+                    "title": "台股急殺1164點逼3萬9千點！僅裕山1檔逆勢亮燈 視陽、中華資安、康全電訊攻頂鎖不住 - Yahoo股市",
+                    "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOM2VxY0w1d2dCNnpxUGxGZ0xkWHh1VE5fWk9nYnhzM0pQek1EQXFlZWJCRE9mRDZuX1hYQXFPSFJabDl3TFZUQXQzSzRleGJjMF9NME9sSWdzeWM1LVpVdmlQckpRNWhtM2lKQ3c4SWtvYldfeXdVZDltdm01Q085aTdXcW1sZThZZTlORzRiVkZBMHhxZlBzb3FYLUZBdHd2bFpNSmlFNEdBNzdvZDRnQk5BVlF2VVBWSVdYV1NVbTljU1RObWNaTjBRajE3TUswOS1FemI3QUhzaGFRenNqNml3bkNzZldXR1o2VVc2MEZ5djYtMHFIUzNrU0stR2lKbE5Takk1M1hqU1lKbkFkb29GR2pNR0pVY0hzUWtLR2VjQ3VmZlZVMkxMQkx5OXBGaVp4NzRjOE9rVFYxaVpyU1I5YUVhU29RTGFmbVFfdC0xTXNpekRqSjN2QldWWnZFU24xYU1nRnl1VlZWSlBFX1Jta0VMQlNFZmJKTkQwalZ0UEdnMlltbzJHckxkUVM5TW1rTEp3am13UnE4SllISzFjZ2YxcHY3NUIyREdpSmtCMFIwVjBUMHpEY1I4eTZzbW9MQWphZ0ZsVm5ra2N4RU1vVHlqRy1sa2RjLXVnVlA1SjJ4WFg1MEJB?oc=5",
+                    "pubDate": "11-19 09:51"
                 }
             ]
         }
